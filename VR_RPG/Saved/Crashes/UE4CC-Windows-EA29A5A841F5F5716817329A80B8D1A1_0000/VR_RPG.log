@@ -1,0 +1,902 @@
+﻿Log file open, 04/14/20 12:22:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_RPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.402506
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.14-16.22.10:707][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.14-16.22.10:708][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.14-16.22.10:708][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.14-16.22.10:708][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.14-16.22.10:708][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:708][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:716][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.14-16.22.10:716][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.14-16.22.10:717][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.14-16.22.10:717][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.14-16.22.10:717][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.14-16.22.10:748][  0]LogHAL: Display: Platform has ~ 32 GB [34306637824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.14-16.22.10:749][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.14-16.22.10:749][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.04.14-16.22.10:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.14-16.22.10:750][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:750][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.14-16.22.10:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.04.14-16.22.10:751][  0]LogInit: Computer: DESKTOP-KFB1H2A
+[2020.04.14-16.22.10:751][  0]LogInit: User: sidne
+[2020.04.14-16.22.10:751][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.14-16.22.10:752][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.14-16.22.10:752][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.04.14-16.22.10:752][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.14-16.22.10:752][  0]LogMemory: Process Physical Memory: 100.53 MB used, 100.53 MB peak
+[2020.04.14-16.22.10:752][  0]LogMemory: Process Virtual Memory: 92.89 MB used, 92.89 MB peak
+[2020.04.14-16.22.10:752][  0]LogMemory: Physical Memory: 10397.72 MB used,  22319.64 MB free, 32717.36 MB total
+[2020.04.14-16.22.10:752][  0]LogMemory: Virtual Memory: 4676.38 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2020.04.14-16.22.10:789][  0]LogInit: Using OS detected language (en-US).
+[2020.04.14-16.22.10:789][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.14-16.22.10:790][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.14-16.22.11:022][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.14-16.22.11:086][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.14-16.22.11:086][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.14-16.22.15:915][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.14-16.22.16:039][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.04.14-16.22.16:039][  0]LogD3D11RHI:       8031/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.14-16.22.16:042][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.14-16.22.16:042][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.14-16.22.16:042][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.14-16.22.16:054][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.14-16.22.16:054][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.14-16.22.16:054][  0]LogWindows: EnumDisplayDevices:
+[2020.04.14-16.22.16:055][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.04.14-16.22.16:055][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.04.14-16.22.16:055][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.14-16.22.16:055][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.14-16.22.16:056][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.14-16.22.16:056][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.04.14-16.22.16:056][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.04.14-16.22.16:056][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.04.14-16.22.16:056][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.14-16.22.16:122][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.14-16.22.16:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.14-16.22.16:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.14-16.22.16:133][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.14-16.22.16:141][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.14-16.22.16:450][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.14-16.22.16:468][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.14-16.22.16:487][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.14-16.22.16:505][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.14-16.22.16:526][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.14-16.22.16:543][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.14-16.22.16:561][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.14-16.22.16:578][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.14-16.22.16:588][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.14-16.22.16:696][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.14-16.22.16:698][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.14-16.22.16:755][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.14-16.22.16:755][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.14-16.22.16:788][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.14-16.22.16:788][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.14-16.22.16:804][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.14-16.22.16:819][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.14-16.22.16:835][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.14-16.22.16:851][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.14-16.22.16:909][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.14-16.22.16:909][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.14-16.22.16:909][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.14-16.22.16:920][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.14-16.22.16:984][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Intermediate/Shaders/WorkingDirectory/25552/).
+[2020.04.14-16.22.16:984][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sidne/AppData/Local/Temp/UnrealShaderWorkingDir/0A5366CB443DD13359F584A3ED4022DA/'.
+[2020.04.14-16.22.16:987][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.14-16.22.16:988][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.14-16.22.16:988][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.14-16.22.17:576][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.14-16.22.17:637][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.14-16.22.17:651][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.14-16.22.17:651][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.14-16.22.17:651][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.14-16.22.17:663][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sidne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.14-16.22.17:663][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.14-16.22.17:663][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.14-16.22.17:687][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.14-16.22.17:689][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.14-16.22.17:689][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.14-16.22.17:780][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2020.04.14-16.22.18:182][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.14-16.22.18:336][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.14-16.22.18:336][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.14-16.22.18:336][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.14-16.22.18:336][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.14-16.22.18:336][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.14-16.22.18:348][  0]LogNetVersion: VR_RPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1435855290)
+[2020.04.14-16.22.18:814][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.078814 seconds
+[2020.04.14-16.22.18:822][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.14-16.22.18:822][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.14-16.22.18:822][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.14-16.22.20:395][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.14-16.22.20:408][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.14-16.22.20:545][  0]SourceControl: Source control is disabled
+[2020.04.14-16.22.20:545][  0]SourceControl: Source control is disabled
+[2020.04.14-16.22.20:547][  0]SourceControl: Source control is disabled
+[2020.04.14-16.22.20:548][  0]SourceControl: Source control is disabled
+[2020.04.14-16.22.20:678][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.14-16.22.21:012][  0]LogOcInput: OculusInput pre-init called
+[2020.04.14-16.22.22:797][  0]LogEngine: Initializing Engine...
+[2020.04.14-16.22.22:798][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-11001510
+[2020.04.14-16.22.22:799][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.14-16.22.23:023][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.14-16.22.23:044][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.14-16.22.23:173][  0]LogInit: XAudio2 using 'HTC-VIVE (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.14-16.22.23:204][  0]LogInit: FAudioDevice initialized.
+[2020.04.14-16.22.23:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.14-16.22.23:382][  0]LogDerivedDataCache: Saved boot cache 0.18s 86MB C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.14-16.22.23:391][  0]LogInit: Texture streaming: Enabled
+[2020.04.14-16.22.23:415][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.14-16.22.23:450][  0]LogInit: Transaction tracking system initialized
+[2020.04.14-16.22.23:480][  0]BlueprintLog: New page: Editor Load
+[2020.04.14-16.22.23:597][  0]LocalizationService: Localization service is disabled
+[2020.04.14-16.22.24:045][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/' took 0.02s
+[2020.04.14-16.22.24:045][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.14-16.22.24:046][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.14-16.22.24:277][  0]SourceControl: Source control is disabled
+[2020.04.14-16.22.24:277][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.14-16.22.24:283][  0]LightingResults: New page: Lighting Build
+[2020.04.14-16.22.24:286][  0]MapCheck: New page: Map Check
+[2020.04.14-16.22.24:286][  0]LightingResults: New page: Lighting Build
+[2020.04.14-16.22.24:323][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.14-16.22.24:548][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.04.14-16.22.24:553][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.14-16.22.24:589][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.14-16.22.24:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.14-16.22.24:590][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2020.04.14-16.22.24:590][  0]LogFileHelpers: Loading map 'StartupMap' took 0.312
+[2020.04.14-16.22.24:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-16.22.24:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-16.22.24:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-16.22.24:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.14-16.22.24:781][  0]LogCollectionManager: Loaded 0 collections in 0.002167 seconds
+[2020.04.14-16.22.24:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Collections/' took 0.01s
+[2020.04.14-16.22.24:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/Developers/sidne/Collections/' took 0.00s
+[2020.04.14-16.22.24:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/Collections/' took 0.00s
+[2020.04.14-16.22.24:798][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.14-16.22.24:808][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2753 classes and 669 folders.
+[2020.04.14-16.22.24:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.14-16.22.24:823][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:830][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:860][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:871][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:902][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:981][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.24:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.25:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.25:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.14-16.22.25:172][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.14-16.22.25:179][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.14-16.22.25:250][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.14-16.22.25:252][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.14-16.22.25:263][  0]LogSlate: Took 0.006221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.14-16.22.25:404][  0]LogRenderer: Reallocating scene render targets to support 1312x672 Format 26 NumSamples 1 (Frame:1).
+[2020.04.14-16.22.25:515][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.14-16.22.25:515][  0]LogLoad: (Engine Initialization) Total time: 17.76 seconds
+[2020.04.14-16.22.25:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.14-16.22.25:551][  0]LogAssetRegistry: Asset discovery search completed in 7.7929 seconds
+[2020.04.14-16.22.25:553][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.14-16.22.25:553][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2020.04.14-16.22.25:558][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.14-16.34.29:657][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-16.34.46:850][711]LogSlate: Took 0.005763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.14-16.34.46:875][711]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sidne/Desktop/GameDev/Assets/UE4MannequinBlender/Anim/UE4_Mannequin_Skeleton_Grab_L.FBX)
+[2020.04.14-16.34.47:066][711]LogFbx: Loading FBX Scene from ../../../../../../Users/sidne/Desktop/GameDev/Assets/UE4MannequinBlender/Anim/UE4_Mannequin_Skeleton_Grab_L.FBX
+[2020.04.14-16.34.47:120][711]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.14-16.35.00:261][711]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(0) root
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(1) pelvis
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(2) spine_01
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(3) spine_02
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(4) spine_03
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(5) clavicle_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(6) upperarm_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(8) hand_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(9) index_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(10) index_02_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(11) index_03_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(12) middle_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(13) middle_02_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(14) middle_03_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(18) ring_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(19) ring_02_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(20) ring_03_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(26) clavicle_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(27) upperarm_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(28) lowerarm_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(29) hand_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(30) index_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(31) index_02_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(32) index_03_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(33) middle_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(34) middle_02_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(35) middle_03_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(36) pinky_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(37) pinky_02_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(38) pinky_03_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(39) ring_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(40) ring_02_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(41) ring_03_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(42) thumb_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(43) thumb_02_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(44) thumb_03_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(47) neck_01
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(48) head
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(49) thigh_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(50) calf_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2020.04.14-16.35.00:415][711]LogFbx: SortedLinks :(52) foot_l
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(53) ball_l
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(55) thigh_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(56) calf_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(58) foot_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(59) ball_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(61) ik_foot_root
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(62) ik_foot_l
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(63) ik_foot_r
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(64) ik_hand_root
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(65) ik_hand_gun
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(66) ik_hand_l
+[2020.04.14-16.35.00:416][711]LogFbx: SortedLinks :(67) ik_hand_r
+[2020.04.14-16.35.00:418][711]LogFbx: Parsing AnimStack Scene
+[2020.04.14-16.35.00:419][711]LogLinker: Can't find file '/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L'
+[2020.04.14-16.35.00:420][711]LogLinker: Can't find file '/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L'
+[2020.04.14-16.35.00:501][711]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L.UE4_Mannequin_Skeleton_Grab_L
+[2020.04.14-16.35.00:502][711]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.UE4_Mannequin_Skeleton_Grab_L) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.14-16.35.00:527][711]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sidne/Desktop/GameDev/Assets/UE4MannequinBlender/Anim/UE4_Mannequin_Skeleton_Grab_R.FBX)
+[2020.04.14-16.35.00:539][711]LogFbx: Loading FBX Scene from ../../../../../../Users/sidne/Desktop/GameDev/Assets/UE4MannequinBlender/Anim/UE4_Mannequin_Skeleton_Grab_R.FBX
+[2020.04.14-16.35.00:585][711]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(0) root
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(1) pelvis
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(2) spine_01
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(3) spine_02
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(4) spine_03
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(5) clavicle_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(6) upperarm_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(7) lowerarm_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(8) hand_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(9) index_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(10) index_02_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(11) index_03_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(12) middle_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(13) middle_02_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(14) middle_03_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(15) pinky_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(16) pinky_02_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(17) pinky_03_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(18) ring_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(19) ring_02_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(20) ring_03_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(21) thumb_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(22) thumb_02_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(23) thumb_03_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(26) clavicle_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(27) upperarm_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(28) lowerarm_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(29) hand_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(30) index_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(31) index_02_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(32) index_03_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(33) middle_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(34) middle_02_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(35) middle_03_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(36) pinky_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(37) pinky_02_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(38) pinky_03_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(39) ring_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(40) ring_02_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(41) ring_03_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(42) thumb_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(43) thumb_02_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(44) thumb_03_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(47) neck_01
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(48) head
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(49) thigh_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(50) calf_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(52) foot_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(53) ball_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(55) thigh_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(56) calf_r
+[2020.04.14-16.35.00:596][711]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(58) foot_r
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(59) ball_r
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(61) ik_foot_root
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(62) ik_foot_l
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(63) ik_foot_r
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(64) ik_hand_root
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(65) ik_hand_gun
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(66) ik_hand_l
+[2020.04.14-16.35.00:597][711]LogFbx: SortedLinks :(67) ik_hand_r
+[2020.04.14-16.35.00:598][711]LogFbx: Parsing AnimStack Scene
+[2020.04.14-16.35.00:599][711]LogLinker: Can't find file '/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R'
+[2020.04.14-16.35.00:599][711]LogLinker: Can't find file '/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R'
+[2020.04.14-16.35.00:674][711]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R.UE4_Mannequin_Skeleton_Grab_R
+[2020.04.14-16.35.00:674][711]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.UE4_Mannequin_Skeleton_Grab_R) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.14-16.35.03:778][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.04.14-16.35.03:779][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.033
+[2020.04.14-16.35.03:780][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L] ([1] browsable assets)...
+[2020.04.14-16.35.03:793][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L.UE4_Mannequin_Skeleton_Grab_L]
+[2020.04.14-16.35.03:793][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L]
+[2020.04.14-16.35.03:813][ 36]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/UE4_Mannequin_Skeleton_Grab_L_Au46DE0D7C471BB56010E3B38ACE5CE726.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Autosaves/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L_Auto1.uasset'
+[2020.04.14-16.35.03:814][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R] ([1] browsable assets)...
+[2020.04.14-16.35.03:824][ 36]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R.UE4_Mannequin_Skeleton_Grab_R]
+[2020.04.14-16.35.03:824][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R]
+[2020.04.14-16.35.03:843][ 36]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/UE4_Mannequin_Skeleton_Grab_R_Au8BA78D3E46797B59C18355B081C984FE.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/Autosaves/Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R_Auto1.uasset'
+[2020.04.14-16.35.03:844][ 36]LogFileHelpers: Auto-saving content packages took 0.064
+[2020.04.14-16.35.08:659][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.14-16.35.08:745][601]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/StartupMap4C51BEC343FB6E4553A4B693D797D863.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2020.04.14-16.35.08:834][601]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/StartupMap_BuiltData098A35714209635B46DF888FFC9FD7CD.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset'
+[2020.04.14-16.35.10:127][741]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L.UE4_Mannequin_Skeleton_Grab_L
+[2020.04.14-16.35.10:137][741]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.14-16.35.10:364][741]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.14-16.35.10:367][741]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.04.14-16.35.10:418][741]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.14-16.35.10:796][741]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.14-16.35.19:293][520]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/UE4_Mannequin_Skeleton_Grab_L220C384D4D1E560CEF6B17A1DD115EC3.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_L.uasset'
+[2020.04.14-16.35.24:013][888]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/UE4_Mannequin_Skeleton_Grab_RD393D5044654E0E9CAA3DCA9A7B99E97.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/Mannequin/Animations/UE4_Mannequin_Skeleton_Grab_R.uasset'
+[2020.04.14-16.35.25:340][993]LogSlate: Window 'UE4_Mannequin_Skeleton_Grab_R' being destroyed
+[2020.04.14-16.35.28:090][257]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.04.14-16.35.28:102][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.14-16.35.28:532][257]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.14-16.35.29:364][257]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.14-16.35.29:661][257]LogSlate: Took 0.004978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.14-16.35.29:866][258]LogSlate: Took 0.006077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.14-16.36.05:674][228]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.36.05:674][228]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.36.05:675][228]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.36.05:675][228]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.36.06:171][286]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.04.14-16.36.06:573][286]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.36.06:573][286]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.36.06:573][286]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.36.06:573][286]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.36.08:685][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.36.08:685][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.36.08:685][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.36.08:685][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.36.08:687][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.36.08:687][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.36.08:687][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.36.08:687][450]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.36.19:463][503]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_9 via property MotionController_L, but TRASH_MotionControllerComponent_9 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_0
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:406][ 47]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.04.14-16.37.08:426][ 47]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:426][ 47]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.37.08:426][ 47]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.37.08:426][ 47]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.37.08:428][ 47]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:428][ 47]LogScript: Warning: Accessed None trying to read property MotionController_L
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.37.08:428][ 47]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.37.08:428][ 47]LogScript: Warning: Accessed None trying to read property MotionController_R
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.37.08:647][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.14-16.37.08:651][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:652][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.37.08:652][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.37.08:652][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_12:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.37.08:653][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:653][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_3 via property MotionController_L, but TRASH_MotionControllerComponent_3 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:02D7
+[2020.04.14-16.37.08:653][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:03FD
+[2020.04.14-16.37.08:653][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_2 via property MotionController_R, but TRASH_MotionControllerComponent_2 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0445
+[2020.04.14-16.37.08:664][ 47]LogScript: Warning: Attempted to access TRASH_MotionControllerComponent_9 via property MotionController_L, but TRASH_MotionControllerComponent_9 is pending kill
+	ThirdPerson_AnimBP_C /Engine/Transient.World_13:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:028F
+[2020.04.14-16.37.08:962][ 62]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Saved/ThirdPersonCharacterAB103ED444595D787523A49D571AC90F.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/Project Files/VR_RPG/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.04.14-16.37.23:917][106]LogUObjectBase: Warning: Object is not registered
+[2020.04.14-16.37.23:917][106]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.14-16.37.24:066][106]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.149 s
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: 
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: Stack: 
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc7acc0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc7346fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc7354e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc5ca37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc4d35cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc4cf1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc85a5984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc87915e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc85ed70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc85caf5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffbc85c0287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc06f4b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc06f3ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc06f4d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc06f3c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc44a75c0d USER32.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc44a75602 USER32.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc06f4e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ff643495d3e UE4Editor.exe!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ff6434a554c UE4Editor.exe!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ff6434a55ca UE4Editor.exe!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ff6434b316c UE4Editor.exe!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ff6434b5b8e UE4Editor.exe!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc43b67bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: [Callstack] 0x00007ffc45a6ced1 ntdll.dll!UnknownFunction []
+[2020.04.14-16.37.24:066][106]LogOutputDevice: Error: 
+[2020.04.14-16.37.24:091][106]LogStats:                SubmitErrorReport -  0.000 s
