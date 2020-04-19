@@ -3,17 +3,6 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "MegascansPlugin",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
