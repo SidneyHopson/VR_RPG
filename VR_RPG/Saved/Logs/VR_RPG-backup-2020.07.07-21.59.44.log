@@ -1,0 +1,1649 @@
+﻿Log file open, 07/07/20 14:12:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_RPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205065
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=snowy6409 -epicuserid=d720290b62ad4dd5ba3d468e604064f8 -epiclocale=en
+LogInit: Base Directory: E:/UnrealEditor/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.07-18.12.22:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.07-18.12.22:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:043][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.07-18.12.22:047][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.07-18.12.22:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.07-18.12.22:048][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.07-18.12.22:048][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.07-18.12.22:061][  0]LogHAL: Display: Platform has ~ 32 GB [34281226240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.07.07-18.12.22:061][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.07-18.12.22:061][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.07-18.12.22:061][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.07-18.12.22:062][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-18.12.22:062][  0]LogInit: Computer: DESKTOP-H5Q1GPN
+[2020.07.07-18.12.22:063][  0]LogInit: User: snowy
+[2020.07.07-18.12.22:063][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.07-18.12.22:063][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.07-18.12.22:063][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.07.07-18.12.22:063][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.07-18.12.22:063][  0]LogMemory: Process Physical Memory: 100.05 MB used, 100.05 MB peak
+[2020.07.07-18.12.22:063][  0]LogMemory: Process Virtual Memory: 89.67 MB used, 89.67 MB peak
+[2020.07.07-18.12.22:063][  0]LogMemory: Physical Memory: 10749.51 MB used,  21943.61 MB free, 32693.13 MB total
+[2020.07.07-18.12.22:063][  0]LogMemory: Virtual Memory: 4644.42 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.07.07-18.12.22:081][  0]LogInit: Using OS detected language (en-US).
+[2020.07.07-18.12.22:081][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.07-18.12.22:081][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.07-18.12.22:269][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.07-18.12.22:304][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.07-18.12.22:304][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.07-18.12.22:599][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.07-18.12.22:687][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.07.07-18.12.22:687][  0]LogD3D11RHI:       8088/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.07-18.12.22:689][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.07-18.12.22:689][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.07-18.12.22:689][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.07-18.12.22:700][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.07-18.12.22:701][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.07-18.12.22:701][  0]LogWindows: EnumDisplayDevices:
+[2020.07.07-18.12.22:701][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.07.07-18.12.22:701][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.07.07-18.12.22:701][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.07-18.12.22:702][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.07.07-18.12.22:702][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.07-18.12.22:702][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.07.07-18.12.22:702][  0]LogD3D11RHI:   Driver Version: 451.48 (internal:27.21.14.5148, unified:451.48)
+[2020.07.07-18.12.22:702][  0]LogD3D11RHI:      Driver Date: 6-21-2020
+[2020.07.07-18.12.22:702][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.07.07-18.12.22:751][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.07-18.12.22:756][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-18.12.22:756][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-18.12.22:756][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-18.12.22:765][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.07-18.12.23:096][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.07-18.12.23:107][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.07-18.12.23:120][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.07-18.12.23:138][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.07-18.12.23:151][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.07-18.12.23:165][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.07-18.12.23:183][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.07-18.12.23:201][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.07-18.12.23:209][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.07-18.12.23:310][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.07-18.12.23:312][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.07-18.12.23:363][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.07-18.12.23:363][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.07-18.12.23:389][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.07-18.12.23:389][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.07-18.12.23:403][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.07-18.12.23:417][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.07-18.12.23:431][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.07-18.12.23:446][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.07-18.12.23:498][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.07-18.12.23:498][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.07-18.12.23:498][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.07-18.12.23:505][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.07-18.12.23:540][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/Unreal Game Repo/VR_RPG/VR_RPG/Intermediate/Shaders/WorkingDirectory/11540/).
+[2020.07.07-18.12.23:540][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/snowy/AppData/Local/Temp/UnrealShaderWorkingDir/BE6440734256542A29965FBB1BC95B43/'.
+[2020.07.07-18.12.23:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.07-18.12.23:542][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.07-18.12.23:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.07-18.12.24:184][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/snowy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/snowy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Game Repo/VR_RPG/VR_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Game Repo/VR_RPG/VR_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.07-18.12.24:235][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.07-18.12.24:248][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.07-18.12.24:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.07-18.12.24:248][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.07-18.12.24:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/snowy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.07-18.12.24:259][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.07-18.12.24:259][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.07-18.12.25:068][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.07-18.12.25:069][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.07-18.12.25:069][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.07-18.12.25:157][  0]LogAssetRegistry: FAssetRegistry took 0.0352 seconds to start up
+[2020.07.07-18.12.25:516][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.07-18.12.25:703][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.07-18.12.25:703][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.07-18.12.25:703][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.07-18.12.25:703][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.07-18.12.25:703][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.07-18.12.25:716][  0]LogNetVersion: VR_RPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1435855290)
+[2020.07.07-18.12.26:310][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056534 seconds
+[2020.07.07-18.12.26:318][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.07.07-18.12.26:318][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.07.07-18.12.26:318][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.07-18.12.27:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.07-18.12.27:292][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.07-18.12.27:403][  0]SourceControl: Source control is disabled
+[2020.07.07-18.12.27:404][  0]SourceControl: Source control is disabled
+[2020.07.07-18.12.27:405][  0]SourceControl: Source control is disabled
+[2020.07.07-18.12.27:406][  0]SourceControl: Source control is disabled
+[2020.07.07-18.12.27:473][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.07-18.12.27:883][  0]LogOcInput: OculusInput pre-init called
+[2020.07.07-18.12.28:604][  0]LogEngine: Initializing Engine...
+[2020.07.07-18.12.28:606][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-87B72503
+[2020.07.07-18.12.28:607][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.07-18.12.29:052][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.07-18.12.29:061][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.07-18.12.29:250][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-18.12.29:280][  0]LogInit: FAudioDevice initialized.
+[2020.07.07-18.12.29:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.07-18.12.29:367][  0]LogDerivedDataCache: Saved boot cache 0.09s 86MB C:/Users/snowy/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.07-18.12.29:379][  0]LogInit: Texture streaming: Enabled
+[2020.07.07-18.12.29:394][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.07-18.12.29:418][  0]LogInit: Transaction tracking system initialized
+[2020.07.07-18.12.29:433][  0]BlueprintLog: New page: Editor Load
+[2020.07.07-18.12.29:495][  0]LocalizationService: Localization service is disabled
+[2020.07.07-18.12.30:400][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.07-18.12.30:400][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.07-18.12.30:595][  0]SourceControl: Source control is disabled
+[2020.07.07-18.12.30:595][  0]Cmd: MAP LOAD FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.07-18.12.30:603][  0]LightingResults: New page: Lighting Build
+[2020.07.07-18.12.30:605][  0]MapCheck: New page: Map Check
+[2020.07.07-18.12.30:605][  0]LightingResults: New page: Lighting Build
+[2020.07.07-18.12.30:667][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.07-18.12.31:403][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/' took 0.81s
+[2020.07.07-18.12.32:332][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Invenotry/Widgets/InventoryWindow.InventoryWindow_C:ItemList'. Unknown structure.
+[2020.07.07-18.12.32:333][  0]LogClass: Warning: Property ItemList of ItemList has a struct type mismatch (tag STRUCT_REINST_Items_34 != prop FallbackStruct) in package:  D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Invenotry/Widgets/InventoryWindow.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.07.07-18.12.33:171][  0]LogClass: Warning: Property ItemList of ItemList has a struct type mismatch (tag FallbackStruct != prop Items) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.07.07-18.12.35:245][  0]LogTexture: Display: Building textures: T_Weapon_Set2_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2020.07.07-18.12.35:245][  0]LogTexture: Display: Building textures: T_Weapon_Set2_Normal (BC5, 4096X4096)
+[2020.07.07-18.12.35:245][  0]LogStaticMesh: Building static mesh SM_Axe...
+[2020.07.07-18.12.35:262][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe.SM_Axe
+[2020.07.07-18.12.35:272][  0]LogStaticMesh: Building static mesh SM_GreatHammer...
+[2020.07.07-18.12.35:349][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_GreatHammer.SM_GreatHammer
+[2020.07.07-18.12.35:359][  0]LogStaticMesh: Building static mesh SM_Mace...
+[2020.07.07-18.12.35:396][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Mace.SM_Mace
+[2020.07.07-18.12.35:425][  0]LogStaticMesh: Building static mesh SM_GreatAxe...
+[2020.07.07-18.12.35:448][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_GreatAxe.SM_GreatAxe
+[2020.07.07-18.12.52:034][  0]LogTexture: Display: Building textures: T_Weapon_Set2_BaseColor (AutoDXT, 4096X4096)
+[2020.07.07-18.12.52:034][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set2_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2020.07.07-18.12.52:034][  0]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_2, compiling. 
+[2020.07.07-18.13.09:421][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set2_Normal (BC5, 4096X4096)
+[2020.07.07-18.13.09:422][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set2_BaseColor (AutoDXT, 4096X4096)
+[2020.07.07-18.13.09:422][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set1_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2020.07.07-18.13.09:422][  0]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_2Dirty, compiling. 
+[2020.07.07-18.13.26:195][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set1_Normal (BC5, 4096X4096)
+[2020.07.07-18.13.26:195][  0]LogTexture: Display: Building textures: T_Dirty_Weapon_Set1_BaseColor (AutoDXT, 4096X4096)
+[2020.07.07-18.13.26:195][  0]LogMaterial: Display: Missing cached shader map for material M_WeaponSet_1Dirty, compiling. 
+[2020.07.07-18.13.26:566][  0]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-18.13.26:579][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2020.07.07-18.13.26:579][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2020.07.07-18.13.26:619][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.07-18.13.27:072][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.07.07-18.13.27:072][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.07-18.13.27:073][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2020.07.07-18.13.27:073][  0]LogFileHelpers: Loading map 'SidsTestMap' took 56.477
+[2020.07.07-18.13.27:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-18.13.27:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-18.13.27:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-18.13.27:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-18.13.27:244][  0]LogCollectionManager: Loaded 0 collections in 0.000740 seconds
+[2020.07.07-18.13.27:265][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Collections/' took 0.01s
+[2020.07.07-18.13.27:265][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Developers/snowy/Collections/' took 0.00s
+[2020.07.07-18.13.27:265][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Collections/' took 0.00s
+[2020.07.07-18.13.27:265][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.07.07-18.13.27:273][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2732 classes and 659 folders.
+[2020.07.07-18.13.27:278][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.07-18.13.27:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:317][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:427][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:474][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:480][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-18.13.27:670][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.07-18.13.27:694][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.07.07-18.13.27:830][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.07-18.13.27:831][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.07-18.13.27:843][  0]LogSlate: Took 0.007196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.07-18.13.27:953][  0]LogRenderer: Reallocating scene render targets to support 1072x600 Format 10 NumSamples 1 (Frame:1).
+[2020.07.07-18.13.28:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.07-18.13.28:360][  0]LogLoad: (Engine Initialization) Total time: 68.21 seconds
+[2020.07.07-18.13.28:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.07-18.13.28:429][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.07-18.13.28:565][  0]LogSlate: Took 0.007904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.07-18.13.29:567][ 10]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.07-18.13.47:134][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-18.13.48:469][588]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.07.07-18.15.20:396][538]LogAssetRegistry: Asset discovery search completed in 175.2610 seconds
+[2020.07.07-18.15.20:400][538]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.07.07-18.17.40:406][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-18.18.08:183][ 60]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.07-18.18.17:907][803]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.07-18.18.24:826][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Quests/Blueprints/QuestSystem.QuestSystem
+[2020.07.07-18.18.25:037][539]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.07-18.18.25:943][539]LogRenderer: Reallocating scene render targets to support 1144x744 Format 26 NumSamples 1 (Frame:1).
+[2020.07.07-18.18.27:233][636]LogSlate: Took 0.016887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.07-18.18.56:137][192]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.07-18.18.56:138][192]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Developers/snowy/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.07-18.18.56:657][217]LogDirectoryWatcher: A directory notification failed for 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.07.07-18.23.46:334][505]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/Quest.Quest
+[2020.07.07-18.23.56:761][559]LogSlate: Took 0.005895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.07.07-18.24.04:922][472]Cmd: TRANSACTION UNDO
+[2020.07.07-18.24.04:922][472]LogEditorTransaction: Undo Change Parameter Type
+[2020.07.07-18.24.05:189][498]Cmd: TRANSACTION UNDO
+[2020.07.07-18.24.05:189][498]LogEditorTransaction: Undo Rename Variable
+[2020.07.07-18.24.05:450][523]Cmd: TRANSACTION UNDO
+[2020.07.07-18.24.05:450][523]LogEditorTransaction: Undo Add Variable
+[2020.07.07-18.24.05:451][523]LogBlueprint: Error: [Compiler Quest] Structure 'UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/Quest.Quest' is empty 
+[2020.07.07-18.24.05:457][523]LogBlueprint: Warning: [Compiler Quest] [0705.30] Compile of Quest failed. 1 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/Quests/Blueprints/QuestStructure/Quest.Quest)
+[2020.07.07-18.24.46:093][691]LogMetaData: Removing '/Game/Quests/Blueprints/QuestStructure/QuestTypes.QuestTypes' ref from Metadata '/Game/Quests/Blueprints/QuestStructure/QuetTypes.PackageMetaData'
+[2020.07.07-18.24.46:115][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/QuestTypes" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestTypes.uasset" SILENT=true
+[2020.07.07-18.24.46:123][691]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestTypes8B2BDCBC49C6F8D746E4B3AC8ABD19C0.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestTypes.uasset'
+[2020.07.07-18.24.46:279][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.07.07-18.24.46:310][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.07.07-18.24.46:335][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.07-18.24.47:036][757]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Quests/Blueprints/QuestStructure/QuestTypes.QuestTypes
+[2020.07.07-18.25.59:526][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/QuestTypes" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestTypes.uasset" SILENT=true
+[2020.07.07-18.25.59:672][261]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestTypes16AE49C340F8E1D7342F2590CB1A6A89.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestTypes.uasset'
+[2020.07.07-18.26.14:830][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-18.26.14:842][874]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestCC35640B47AED3980C8264BFC76805E9.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-18.26.50:299][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-18.26.50:325][610]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest1B93DE0E40F0F0461721CC9D30ECE563.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-18.27.05:416][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-18.27.05:452][285]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestD8C97C7041220A7D43E7038655983FAD.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-18.28.06:940][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-18.28.06:968][764]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestD4F636464E9AE644781959BE97AE1523.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-18.28.34:526][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.07.07-18.28.34:526][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.028
+[2020.07.07-18.28.34:528][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestSystem] ([1] browsable assets)...
+[2020.07.07-18.28.34:528][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestSystem]
+[2020.07.07-18.28.34:528][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestSystem_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-18.28.34:543][574]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem_Auto175E615B04FAD96747C0ED18699973283.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestSystem_Auto1.uasset'
+[2020.07.07-18.28.34:543][574]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.07.07-18.53.03:435][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.07-18.53.03:435][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.032
+[2020.07.07-18.53.03:436][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestStructure/Quest] ([1] browsable assets)...
+[2020.07.07-18.53.03:436][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestStructure/Quest]
+[2020.07.07-18.53.03:463][754]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest_Auto23CD78ACF4C9723F4FD928CB2C5B36D9E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestStructure/Quest_Auto2.uasset'
+[2020.07.07-18.53.03:463][754]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.07.07-18.55.08:621][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-18.55.08:648][365]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestD5CB7578412872E74A2DA39A82A78233.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-18.56.11:216][141]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.07.07-18.56.22:688][478]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/RichTextFormater.RichTextFormater
+[2020.07.07-18.56.22:692][478]LogBlueprintActionDatabase: Requesting refresh due to module change: DataTableEditor (loaded)
+[2020.07.07-18.56.23:883][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-18.56.23:949][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.07.07-18.56.24:196][574]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/SidsTestMapD8450EC048D6AC1F9685A583F1B49A05.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-18.56.28:516][903]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (17.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-18.57.47:030][477]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.07-18.57.50:594][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/RichTextFormater" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset" SILENT=true
+[2020.07.07-18.57.50:602][874]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/RichTextFormaterEBD4B89E4744AD0593545CB52D7F91E5.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset'
+[2020.07.07-18.58.16:552][786]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Quests/Widgets/QuestScreen.QuestScreen
+[2020.07.07-18.58.16:870][786]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.07.07-18.58.27:185][834]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2020.07.07-18.58.27:205][834]LogSlate: Took 0.018581 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.07.07-19.01.36:752][278]AssetReimport: New page: Outstanding source content changes 11:01:36 AM
+[2020.07.07-19.01.36:753][278]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/ferrum.otf)
+[2020.07.07-19.01.45:319][278]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.07.07-19.01.45:332][278]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.07.07-19.01.45:346][279]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.07-19.01.45:353][279]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.07-19.01.45:362][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/ferrum" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/ferrum.uasset" SILENT=true
+[2020.07.07-19.01.45:371][279]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ferrumADD7D0C248BA9F487615E59F4684C70E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/ferrum.uasset'
+[2020.07.07-19.01.45:398][279]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.07-19.01.45:401][279]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.07-19.01.45:403][279]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.07-19.01.48:672][594]AssetReimport: Importing new asset /Game/Quests/ferrum.
+[2020.07.07-19.01.51:498][683]LogSlate: Took 0.001872 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.07.07-19.01.51:499][683]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.07-19.01.58:162][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/RichTextFormater" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset" SILENT=true
+[2020.07.07-19.01.58:198][340]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/RichTextFormaterB9E50B6549D7D2E824FD43B9D9FAC1C7.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset'
+[2020.07.07-19.02.00:523][527]BlueprintLog: New page: Compile QuestScreen
+[2020.07.07-19.02.00:820][527]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.07.07-19.03.09:558][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/RichTextFormater" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset" SILENT=true
+[2020.07.07-19.03.09:589][354]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/RichTextFormater7DC96ED54677DDAD6DBBAC9EFCE25C40.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset'
+[2020.07.07-19.03.28:328][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/RichTextFormater" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset" SILENT=true
+[2020.07.07-19.03.28:354][152]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/RichTextFormaterB89705834A5D271AAF5D19BDBA4FD648.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset'
+[2020.07.07-19.03.32:403][528]BlueprintLog: New page: Compile QuestScreen
+[2020.07.07-19.03.32:441][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.07.07-19.04.05:394][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Widgets/QuestScreen" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Widgets/QuestScreen.uasset" SILENT=true
+[2020.07.07-19.04.05:414][781]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestScreen65EABEAF45E1E51A4B947E8E5E11FB11.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Widgets/QuestScreen.uasset'
+[2020.07.07-19.04.06:197][852]BlueprintLog: New page: Compile QuestScreen
+[2020.07.07-19.04.06:231][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.07.07-19.04.23:087][744]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.07.07-19.04.34:067][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.04.34:094][929]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestCDF67C204D7DEC620C5F8FAE2FCAC528.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.05.11:600][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.05.11:628][852]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestCEB4DBF3421F85780293798383C86C41.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.06.21:663][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-19.06.33:997][612]BlueprintLog: New page: Compile QuestScreen
+[2020.07.07-19.06.34:031][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.07-19.06.43:177][528]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.07-19.06.47:855][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/RichTextFormater" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset" SILENT=true
+[2020.07.07-19.06.47:880][ 20]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/RichTextFormater398129D642D3F1CC13615193E7E058F8.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/RichTextFormater.uasset'
+[2020.07.07-19.06.52:322][365]BlueprintLog: New page: Compile QuestScreen
+[2020.07.07-19.06.52:356][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.07-19.07.20:569][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.07.07-19.07.20:569][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.034
+[2020.07.07-19.07.20:570][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Widgets/QuestScreen] ([1] browsable assets)...
+[2020.07.07-19.07.20:570][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Widgets/QuestScreen]
+[2020.07.07-19.07.20:570][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Widgets/QuestScreen" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Widgets/QuestScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-19.07.20:601][424]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestScreen_Auto3DE6E7F7942D069A108C166A0C461337C.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Widgets/QuestScreen_Auto3.uasset'
+[2020.07.07-19.07.20:602][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Quests/ferrum_Font] ([1] browsable assets)...
+[2020.07.07-19.07.20:607][424]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Quests/ferrum_Font.ferrum_Font]
+[2020.07.07-19.07.20:607][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/ferrum_Font]
+[2020.07.07-19.07.20:607][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/ferrum_Font" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/ferrum_Font_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-19.07.20:618][424]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ferrum_Font_Auto370D588AA47A6C0B2911FFC86AB835697.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/ferrum_Font_Auto3.uasset'
+[2020.07.07-19.07.20:619][424]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.07.07-19.09.56:369][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.09.56:400][455]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest7B5710B445B41D9A0220C99E3D8DAD85.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.11.25:099][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.11.25:127][188]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestF73759A842D2AD15C68B4E8626D12F77.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.11.34:138][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.11.34:162][195]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest97FC3EC9418440407DC584AF19ACF4A7.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.11.39:664][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.11.39:691][770]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestE765E1754E8532BE402501ACC21E7805.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.29.28:748][627]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.07-19.29.39:554][697]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.07-19.29.47:097][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Quests/Blueprints/BaseBluepring.BaseBluepring
+[2020.07.07-19.29.59:211][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.QuestBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.SKEL_QuestBase_C' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.QuestBase_C' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.QuestBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.QuestBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:215][673]LogMetaData: Removing '/Game/Quests/Blueprints/QuestBase.QuestBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Quests/Blueprints/BaseBluepring.PackageMetaData'
+[2020.07.07-19.29.59:238][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.29.59:252][673]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase8FDF4975476868740337529EB62FDCB1.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.29.59:418][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.07.07-19.29.59:455][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.07.07-19.29.59:486][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.07.07-19.30.00:803][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-19.30.00:838][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.07.07-19.30.01:079][797]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/SidsTestMap3AB5AE9D4A31EB0AEB33C3A925DCD83F.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-19.30.02:948][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-19.31.19:753][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.07-19.31.20:855][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-19.31.31:121][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.31.31:150][852]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest887A11CB4EDF5F84D62C5C8CF2C65837.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.31.36:768][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quest" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset" SILENT=true
+[2020.07.07-19.31.36:797][441]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quest9B2F0C92446635C0BCC388ADC7B4685B.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quest.uasset'
+[2020.07.07-19.32.24:234][ 95]LogSlate: Window 'Save Asset As' being destroyed
+[2020.07.07-19.32.24:243][ 95]LogClass: UUserDefinedStruct.Serialize 'QuestData' validation: Struct 'UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/QuestData.QuestData' is empty
+[2020.07.07-19.32.24:268][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/QuestData" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset" SILENT=true
+[2020.07.07-19.32.24:283][ 95]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestData9DE1B3D44A8627F6A8F87E8446AC68D9.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset'
+[2020.07.07-19.32.24:321][ 95]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/QuestData.QuestData
+[2020.07.07-19.32.26:008][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/QuestData" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset" SILENT=true
+[2020.07.07-19.32.26:037][259]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestData6588A72B41D0EAD295C50B96E6AA3F55.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset'
+[2020.07.07-19.32.30:760][673]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.32.30:958][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.07.07-19.32.40:791][586]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.32.40:792][586]LogClass: Warning: Type mismatch in QuestInformation of QuestBase_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2020.07.07-19.32.40:970][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.07.07-19.32.41:463][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.32.41:500][625]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase2AA0754C440529F6AE5D8AA0C708E888.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.33.26:365][591]LogSlate: Took 0.008065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.07-19.33.36:582][563]BlueprintLog: New page: Collapse to Function
+[2020.07.07-19.35.16:438][663]LogSlate: Window 'QuestTypes' being destroyed
+[2020.07.07-19.35.51:712][ 79]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.35.51:905][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.07.07-19.36.30:559][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.36.30:592][710]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase970ED39645323E279E687D88828385C8.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.36.31:182][765]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.36.31:368][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.07.07-19.36.41:590][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.36.41:622][108]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase39DA195B434D9774C4768E9C9FA611F6.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.37.06:940][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.37.06:980][331]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBaseB51E2EC545729DFF15C31586DCC92E74.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.37.07:801][404]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.37.07:990][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.07-19.38.48:745][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.38.48:788][ 17]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBaseD7C3918C48D35D18AD7E1B80F8393886.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.39.19:690][941]LogEditorTransaction: Undo Move Node
+[2020.07.07-19.39.20:381][993]LogEditorTransaction: Undo Add Node
+[2020.07.07-19.39.46:671][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-19.39.46:709][520]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase514D918042329C8AA4292DB53031A9D3.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-19.39.47:520][595]BlueprintLog: New page: Compile QuestBase
+[2020.07.07-19.39.47:721][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.07.07-19.41.40:370][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.07.07-19.41.40:370][118]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.046
+[2020.07.07-19.41.40:371][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestSystem] ([1] browsable assets)...
+[2020.07.07-19.41.40:371][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestSystem]
+[2020.07.07-19.41.40:371][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestSystem_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-19.41.40:382][118]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem_Auto4F415CB8D46428718AB31D4A12ECB34FF.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestSystem_Auto4.uasset'
+[2020.07.07-19.41.40:383][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Widgets/QuestScreen] ([1] browsable assets)...
+[2020.07.07-19.41.40:383][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Widgets/QuestScreen]
+[2020.07.07-19.41.40:383][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Widgets/QuestScreen" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Widgets/QuestScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-19.41.40:412][118]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestScreen_Auto4531B7CB844FF53720AF5E1AE404B1633.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Widgets/QuestScreen_Auto4.uasset'
+[2020.07.07-19.41.40:413][118]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.07.07-19.52.28:378][335]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (22.948 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-19.52.54:893][495]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv)
+[2020.07.07-19.52.54:893][495]LogFactory: Error: Failed to load file 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv' to string
+[2020.07.07-19.53.00:029][495]LogSlate: Window 'Message' being destroyed
+[2020.07.07-19.53.00:033][495]LogAssetTools: Warning: Failed to import 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv'. Failed to create asset '/Game/Quests/QuestDataStore'.
+Please see Output Log for details.
+[2020.07.07-19.53.12:397][ 33]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv)
+[2020.07.07-19.53.12:397][ 33]LogFactory: Error: Failed to load file 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv' to string
+[2020.07.07-19.53.15:334][ 33]LogSlate: Window 'Message' being destroyed
+[2020.07.07-19.53.15:345][ 33]LogAssetTools: Warning: Failed to import 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv'. Failed to create asset '/Game/Quests/QuestDataStore'.
+Please see Output Log for details.
+[2020.07.07-19.53.23:586][841]LogSlate: Took 0.010341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.07-19.54.58:217][698]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.07.07-19.54.59:627][835]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/NewDataTable.NewDataTable
+[2020.07.07-19.57.17:401][592]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv)
+[2020.07.07-19.57.17:401][592]LogFactory: Error: Failed to load file 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv' to string
+[2020.07.07-19.57.18:917][592]LogSlate: Window 'Message' being destroyed
+[2020.07.07-19.57.18:922][592]LogAssetTools: Warning: Failed to import 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv'. Failed to create asset '/Game/Quests/QuestDataStore'.
+Please see Output Log for details.
+[2020.07.07-19.58.13:736][456]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Test.csv)
+[2020.07.07-19.58.13:737][456]LogFactory: Error: Failed to load file 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Test.csv' to string
+[2020.07.07-19.58.15:111][456]LogSlate: Window 'Message' being destroyed
+[2020.07.07-19.58.15:117][456]LogAssetTools: Warning: Failed to import 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Test.csv'. Failed to create asset '/Game/Quests/Test'.
+Please see Output Log for details.
+[2020.07.07-19.58.51:311][409]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Test.csv)
+[2020.07.07-19.58.52:785][409]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-19.58.54:940][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.07-19.58.56:239][609]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-19.58.56:418][609]LogSlate: Window 'QuestBase' being destroyed
+[2020.07.07-19.58.56:499][609]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Quests/NewDataTable.NewDataTable
+[2020.07.07-19.58.59:303][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.07.07-19.59.27:675][797]LogSlate: Window 'Output Log' being destroyed
+[2020.07.07-19.59.27:681][797]LogSlate: Window 'Output Log' being destroyed
+[2020.07.07-19.59.34:554][310]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/Quest.Quest
+[2020.07.07-19.59.38:127][680]LogSlate: Window 'Quest' being destroyed
+[2020.07.07-19.59.38:133][680]LogSlate: Window 'Quest' being destroyed
+[2020.07.07-19.59.39:343][807]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/QuestData.QuestData
+[2020.07.07-20.02.38:735][952]LogSlate: Window 'QuestData' being destroyed
+[2020.07.07-20.02.38:741][952]LogSlate: Window 'QuestData' being destroyed
+[2020.07.07-20.02.43:821][485]AssetReimport: New page: Outstanding source content changes 12:02:43 PM
+[2020.07.07-20.02.43:822][485]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv)
+[2020.07.07-20.02.46:759][485]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.02.46:816][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.07.07-20.02.46:841][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.07.07-20.02.49:856][804]AssetReimport: Importing new asset /Game/Quests/QuestDataStore.
+[2020.07.07-20.02.49:856][804]AssetReimport: Failed to import file D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestDataStore.csv.
+[2020.07.07-20.02.58:269][830]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestTest.csv)
+[2020.07.07-20.03.34:804][830]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: Imported DataTable 'QuestTest' - 5 Problems
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: 0:Cannot find Property for column 'QuestName' in struct 'GameplayTagTableRow'.
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: 1:Cannot find Property for column 'QuestDescription' in struct 'GameplayTagTableRow'.
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: 2:Cannot find Property for column 'QuestLink' in struct 'GameplayTagTableRow'.
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: 3:Expected column 'Tag' not found in input.
+[2020.07.07-20.03.34:814][830]LogCSVImportFactory: 4:Expected column 'DevComment' not found in input.
+[2020.07.07-20.03.38:604][830]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.03.41:331][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.07-20.03.42:770][ 94]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.03.42:833][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.07-20.03.55:574][315]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestTest.csv)
+[2020.07.07-20.03.59:127][315]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.03.59:132][315]LogCSVImportFactory: Imported DataTable 'QuestTest' - 3 Problems
+[2020.07.07-20.03.59:132][315]LogCSVImportFactory: 0:Cannot find Property for column 'QuestLink' in struct 'QuestData'.
+[2020.07.07-20.03.59:132][315]LogCSVImportFactory: 1:Expected column 'Linked Quest ID' not found in input.
+[2020.07.07-20.03.59:132][315]LogCSVImportFactory: 2:Expected column 'Quest ID' not found in input.
+[2020.07.07-20.05.33:193][315]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.05.33:241][316]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-20.05.34:552][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.07.07-20.05.35:530][446]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.05.35:602][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.07.07-20.05.39:826][650]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestTest.csv)
+[2020.07.07-20.05.42:901][650]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.05.42:906][650]LogCSVImportFactory: Imported DataTable 'QuestTest' - 1 Problems
+[2020.07.07-20.05.42:906][650]LogCSVImportFactory: 0:Expected column 'Quest ID' not found in input.
+[2020.07.07-20.05.47:141][650]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.05.49:111][852]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/QuestTest.QuestTest
+[2020.07.07-20.07.03:522][ 25]LogSlate: Window 'QuestTest' being destroyed
+[2020.07.07-20.07.03:527][ 25]LogSlate: Window 'QuestTest' being destroyed
+[2020.07.07-20.07.04:865][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.07.07-20.07.05:736][156]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.07.05:814][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.07-20.07.55:956][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.07.07-20.07.56:962][344]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.07.57:045][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.07-20.07.57:075][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.07.07-20.07.57:100][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.07-20.07.57:891][425]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/QuestData.QuestData
+[2020.07.07-20.08.16:981][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/QuestData" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset" SILENT=true
+[2020.07.07-20.08.17:012][432]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestDataE9B2F3404643F4C1A88E3AA8E53AD2CC.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/QuestData.uasset'
+[2020.07.07-20.10.02:307][ 16]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/Quests/Blueprints/QuestStructure/QuestTypes.QuestTypes
+[2020.07.07-20.13.48:793][903]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/QuestTest.csv)
+[2020.07.07-20.13.53:005][903]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.13.53:018][903]LogCSVImportFactory: Imported DataTable 'QuestTest' - 1 Problems
+[2020.07.07-20.13.53:018][903]LogCSVImportFactory: 0:Expected column 'Quest Name' not found in input.
+[2020.07.07-20.14.02:692][903]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.14.03:652][998]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/QuestTest.QuestTest
+[2020.07.07-20.14.15:381][211]LogSlate: Window 'QuestTest' being destroyed
+[2020.07.07-20.14.15:389][211]LogSlate: Window 'QuestTest' being destroyed
+[2020.07.07-20.14.46:909][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.07.07-20.14.47:857][545]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.14.47:927][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.07.07-20.14.56:268][147]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Quests.csv)
+[2020.07.07-20.14.59:533][147]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.14.59:549][147]LogCSVImportFactory: Imported DataTable 'Quests' - 1 Problems
+[2020.07.07-20.14.59:549][147]LogCSVImportFactory: 0:Expected column 'Quest Name' not found in input.
+[2020.07.07-20.15.00:752][147]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.15.01:813][243]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-20.15.36:678][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.07.07-20.15.36:678][441]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.027
+[2020.07.07-20.15.36:680][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestBase] ([1] browsable assets)...
+[2020.07.07-20.15.36:680][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestBase]
+[2020.07.07-20.15.36:680][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestBase_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-20.15.36:718][441]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase_Auto5B4DE5E034826CB5478B8C18C6DD0A1FE.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestBase_Auto5.uasset'
+[2020.07.07-20.15.36:719][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestStructure/Quests] ([1] browsable assets)...
+[2020.07.07-20.15.36:719][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestStructure/Quests]
+[2020.07.07-20.15.36:726][441]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quests_Auto541C0AAC34640F61556B03B83E4DC0465.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestStructure/Quests_Auto5.uasset'
+[2020.07.07-20.15.36:726][441]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.07.07-20.16.27:817][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.07-20.16.29:595][676]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.16.29:600][676]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-20.16.29:604][676]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-20.16.29:942][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.07-20.16.33:908][926]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Quests.csv)
+[2020.07.07-20.16.36:760][926]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.16.36:766][926]LogCSVImportFactory: Imported DataTable 'Quests' - 1 Problems
+[2020.07.07-20.16.36:766][926]LogCSVImportFactory: 0:Expected column 'Quest Name' not found in input.
+[2020.07.07-20.16.37:929][926]LogSlate: Window 'Message' being destroyed
+[2020.07.07-20.16.39:187][ 58]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-20.16.46:657][844]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-20.16.46:663][844]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-20.17.17:895][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.07.07-20.17.18:867][236]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-20.17.18:943][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.07.07-20.17.24:996][499]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Quests.csv)
+[2020.07.07-20.17.28:039][499]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-20.17.28:045][499]LogCSVImportFactory: Imported DataTable 'Quests' - 0 Problems
+[2020.07.07-20.17.29:380][640]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-20.17.48:567][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quests" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset" SILENT=true
+[2020.07.07-20.17.48:575][514]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quests95B4870F46AE293DBE0F06BFBC8B400E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset'
+[2020.07.07-20.18.07:611][596]LogWindows: LaunchFileInExternalEditor D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Quests.csv 
+[2020.07.07-20.18.07:680][596]LogWindows: Launch application code for D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Quests.csv : 42
+[2020.07.07-20.18.59:651][548]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-20.18.59:657][548]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-20.19.04:141][ 49]LogCSVImportFactory: Imported DataTable 'Quests' - 0 Problems
+[2020.07.07-20.19.06:124][253]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-20.19.10:048][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quests" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset" SILENT=true
+[2020.07.07-20.19.10:076][653]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestsDDC22C28415E1EEDE7ED7EAEF0D7858F.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset'
+[2020.07.07-21.26.15:991][183]LogCSVImportFactory: Imported DataTable 'Quests' - 0 Problems
+[2020.07.07-21.26.38:509][304]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Quests/Blueprints/QuestStructure/ReachDestination.ReachDestination
+[2020.07.07-21.27.45:274][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/ReachDestination" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset" SILENT=true
+[2020.07.07-21.27.45:289][550]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ReachDestination9B3699234636C6619713FE906BBF1AE8.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset'
+[2020.07.07-21.27.46:893][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/ReachDestination" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset" SILENT=true
+[2020.07.07-21.27.46:944][722]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ReachDestination7EAA924543FF3FC815468D828118FCF7.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset'
+[2020.07.07-21.28.14:627][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.07.07-21.28.14:627][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.036
+[2020.07.07-21.28.14:628][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestStructure/Quests] ([1] browsable assets)...
+[2020.07.07-21.28.14:628][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestStructure/Quests]
+[2020.07.07-21.28.14:653][890]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quests_Auto6FB670C1F4B82ACAD97A941B63AE7BC1A.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestStructure/Quests_Auto6.uasset'
+[2020.07.07-21.28.14:653][890]LogFileHelpers: Auto-saving content packages took 0.026
+[2020.07.07-21.28.27:399][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/ReachDestination" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset" SILENT=true
+[2020.07.07-21.28.27:422][970]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ReachDestination6FDF12CD448AA62A25E85989C5915D01.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/ReachDestination.uasset'
+[2020.07.07-21.28.29:119][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Quests" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset" SILENT=true
+[2020.07.07-21.28.29:143][137]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Quests6BD7081844A22CD4CB09F3AF4856585E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Quests.uasset'
+[2020.07.07-21.28.46:879][547]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.07.07-21.28.51:293][ 13]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Destination.Destination
+[2020.07.07-21.28.55:378][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Destination" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Destination.uasset" SILENT=true
+[2020.07.07-21.28.55:386][427]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Destination6F70C2DA43464C00383926AE1D35D680.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Destination.uasset'
+[2020.07.07-21.29.01:632][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.29.03:077][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.29.03:156][143]LogActorFactory: Actor Factory created Cube
+[2020.07.07-21.29.03:610][182]LogActorFactory: Actor Factory created Cube
+[2020.07.07-21.29.10:714][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.29.26:851][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.29.41:480][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.31.09:592][595]LogSlate: Window 'Destination' being destroyed
+[2020.07.07-21.31.09:598][595]LogSlate: Window 'Destination' being destroyed
+[2020.07.07-21.31.11:547][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.07.07-21.31.12:768][795]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-21.31.12:846][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.07-21.31.12:879][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.07.07-21.31.12:903][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.07-21.31.21:972][630]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv)
+[2020.07.07-21.31.21:972][630]LogFactory: Error: Failed to load file 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv' to string
+[2020.07.07-21.31.27:075][630]LogSlate: Window 'Message' being destroyed
+[2020.07.07-21.31.27:079][630]LogAssetTools: Warning: Failed to import 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv'. Failed to create asset '/Game/Quests/Blueprints/QuestStructure/Targets'.
+Please see Output Log for details.
+[2020.07.07-21.31.29:756][772]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv)
+[2020.07.07-21.31.33:360][772]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-21.31.33:369][772]LogCSVImportFactory: Imported DataTable 'Targets' - 2 Problems
+[2020.07.07-21.31.33:369][772]LogCSVImportFactory: 0:Expected column 'Quest ID' not found in input.
+[2020.07.07-21.31.33:369][772]LogCSVImportFactory: 1:Problem assigning string '{"X":2000,"Y":-2000,"Z":50}' to property 'Location' on row '0' : ImportText (Location_7_DF68BDFC4CEA1753C3E64C951A453ADE): Missing opening parenthesis: {"X":2000,"Y":-2000,"Z":50}
+[2020.07.07-21.31.43:456][772]LogSlate: Window 'Message' being destroyed
+[2020.07.07-21.31.44:606][902]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Targets.Targets
+[2020.07.07-21.31.51:289][654]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.31.51:294][654]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.33.55:618][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.07.07-21.33.57:683][955]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-21.33.57:754][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.07.07-21.34.15:215][267]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv)
+[2020.07.07-21.34.18:039][267]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-21.34.18:044][267]LogCSVImportFactory: Imported DataTable 'Targets' - 1 Problems
+[2020.07.07-21.34.18:044][267]LogCSVImportFactory: 0:Expected column 'Quest ID' not found in input.
+[2020.07.07-21.34.33:792][267]LogSlate: Window 'Message' being destroyed
+[2020.07.07-21.34.35:054][408]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Targets.Targets
+[2020.07.07-21.34.37:231][644]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.34.37:235][644]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.34.38:422][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.07-21.34.39:361][779]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.07-21.34.39:428][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.07.07-21.36.27:404][406]LogFactory: FactoryCreateFile: CurveBase with ReimportCurveFactory (0 1 D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Targets.csv)
+[2020.07.07-21.36.30:118][406]LogSlate: Window 'DataTable Options' being destroyed
+[2020.07.07-21.36.30:125][406]LogCSVImportFactory: Imported DataTable 'Targets' - 0 Problems
+[2020.07.07-21.36.31:486][564]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Targets.Targets
+[2020.07.07-21.37.54:108][363]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.37.54:114][363]LogSlate: Window 'Targets' being destroyed
+[2020.07.07-21.37.54:897][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-21.37.54:926][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.07.07-21.37.55:133][453]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/SidsTestMap4D2E2C7E4E381A2F4DE819B3CD6F2EFA.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-21.37.58:494][835]Cmd: DELETE
+[2020.07.07-21.37.58:494][835]Cmd: ACTOR DELETE
+[2020.07.07-21.37.58:504][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.07-21.37.58:531][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.07-21.37.58:531][835]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.07.07-21.38.00:067][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.38.00:154][ 15]LogActorFactory: Actor Factory created Cylinder
+[2020.07.07-21.38.00:617][ 64]LogActorFactory: Actor Factory created Cylinder
+[2020.07.07-21.38.10:241][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.38.15:370][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.38.22:196][255]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.07.07-21.38.24:830][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.07.07-21.38.26:491][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.38.31:171][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.38.35:613][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.38.45:948][829]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.07.07-21.38.47:706][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.07.07-21.38.49:648][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.38.50:877][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.38.56:574][316]LogSlate: Window 'Save Asset As' being destroyed
+[2020.07.07-21.38.56:579][316]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2020.07.07-21.38.56:592][316]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.07.07-21.38.57:934][427]LogAssetEditorManager: Opening Asset editor for Material /Game/Quests/Blueprints/QuestStructure/Waypoint.Waypoint
+[2020.07.07-21.38.57:937][427]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.38.58:142][427]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2020.07.07-21.38.58:228][427]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.38.58:239][427]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.07.07-21.38.58:241][427]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.01:831][631]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.07.07-21.39.06:271][ 22]LogMaterialEditor: Saving and Compiling material Waypoint
+[2020.07.07-21.39.06:295][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Waypoint" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset" SILENT=true
+[2020.07.07-21.39.06:313][ 22]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Waypoint29960B8B4DECF02FDB24DA9B0878B5E4.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset'
+[2020.07.07-21.39.13:908][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.39.14:199][700]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.07.07-21.39.23:259][603]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.23:272][603]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.23:279][603]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.23:318][603]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.26:372][885]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.26:390][885]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.27:324][960]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.27:340][960]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.28:284][ 45]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.07.07-21.39.28:433][ 59]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.28:452][ 59]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.29:135][110]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.29:153][110]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.07.07-21.39.29:179][110]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.07-21.39.31:510][303]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.07.07-21.39.33:156][458]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.34:676][607]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.34:723][607]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.34:744][607]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.34:760][607]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.39.38:720][965]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.38:739][965]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.41:979][234]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.39.42:289][260]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.42:313][260]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.39.42:316][260]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.43:005][318]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.43:218][333]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.39.43:692][374]LogMaterialEditor: Saving and Compiling material Waypoint
+[2020.07.07-21.39.44:088][374]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.44:153][374]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.39.44:178][374]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.44:211][374]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.39.44:305][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.07.07-21.39.44:316][374]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.07-21.39.51:033][374]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.07.07-21.39.51:033][374]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.07.07-21.39.51:033][374]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.07.07-21.39.51:037][374]TextureStreamingBuild: Display: Compiling optional shaders took 6.729 seconds.
+[2020.07.07-21.39.51:086][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.07-21.39.51:098][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.39.57:032][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Waypoint" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset" SILENT=true
+[2020.07.07-21.39.57:066][374]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/WaypointBAB5A20243F132A19ABB4F91F29D32DF.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset'
+[2020.07.07-21.39.57:085][374]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.07.07-21.39.57:085][374]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 155 instructions
+[2020.07.07-21.39.57:085][374]MaterialEditorStats: Base pass vertex shader: 213 instructions
+[2020.07.07-21.39.57:085][374]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.07-21.39.59:324][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.40.04:039][ 43]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.40.04:057][ 43]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.40.04:085][ 44]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.07.07-21.40.05:870][192]LogMaterialEditor: Applying material Waypoint
+[2020.07.07-21.40.06:231][192]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.40.06:312][192]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.40.06:331][192]LogMaterial: Display: Missing cached shader map for material Waypoint, compiling. 
+[2020.07.07-21.40.06:376][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.07.07-21.40.06:382][192]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.07-21.40.11:430][192]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.07.07-21.40.11:430][192]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.07.07-21.40.11:430][192]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.07.07-21.40.11:431][192]TextureStreamingBuild: Display: Compiling optional shaders took 5.055 seconds.
+[2020.07.07-21.40.11:458][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.07-21.40.15:539][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.40.15:939][573]LogMaterialEditor: Saving and Compiling material Waypoint
+[2020.07.07-21.40.22:133][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Waypoint" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset" SILENT=true
+[2020.07.07-21.40.22:162][573]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/WaypointD2FFBC3B4E25547004F1F7B832966776.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Waypoint.uasset'
+[2020.07.07-21.40.22:174][573]MaterialEditorStats: Base pass shader: 134 instructions
+[2020.07.07-21.40.22:174][573]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 155 instructions
+[2020.07.07-21.40.22:174][573]MaterialEditorStats: Base pass vertex shader: 213 instructions
+[2020.07.07-21.40.22:174][573]MaterialEditorStats: Texture samplers: 3/16
+[2020.07.07-21.40.48:412][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.40.56:685][734]LogSlate: Window 'Select Path' being destroyed
+[2020.07.07-21.40.57:572][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.41.08:401][683]LogSlate: Window 'Select Path' being destroyed
+[2020.07.07-21.41.08:447][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.07.07-21.41.08:473][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.41.08:477][683]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Quests/Blueprints/Waypoint.Waypoint
+[2020.07.07-21.41.11:207][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.07.07-21.41.11:805][945]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint)
+[2020.07.07-21.41.12:802][ 33]Cmd: DELETE
+[2020.07.07-21.41.12:802][ 33]Cmd: ACTOR DELETE
+[2020.07.07-21.41.12:805][ 33]LogEditorActor: Deleted Actor: Waypoint_C
+[2020.07.07-21.41.12:833][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.07.07-21.41.12:833][ 33]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.07.07-21.41.14:930][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-21.41.14:936][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-21.41.14:964][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.07-21.41.15:161][251]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/SidsTestMap814CCA77467DB9EE28D3A3B36944E427.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-21.41.16:321][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.41.18:811][587]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Quests/Blueprints/QuestSystem.QuestSystem
+[2020.07.07-21.41.19:036][587]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2020.07.07-21.41.20:601][746]LogSlate: Window 'CompilerResults' being destroyed
+[2020.07.07-21.41.20:603][746]LogSlate: Window 'CompilerResults' being destroyed
+[2020.07.07-21.41.20:685][746]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Quests/Blueprints/QuestSystem.QuestSystem
+[2020.07.07-21.41.27:540][335]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.41.27:692][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.07.07-21.41.28:146][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.41.28:164][376]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem1990B4104AAE3A11DE52348906F9F551.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.41.32:317][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.41.40:490][691]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.41.40:640][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.07.07-21.41.42:271][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.41.42:315][865]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem958379644EAAB61CCB5F3F919EE230D7.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.41.45:159][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.42.49:819][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.42.49:847][211]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem19828A14490D1D6412ED0FBFE5213238.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.42.50:430][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.42.50:514][278]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.42.50:683][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.07.07-21.43.03:932][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.43.03:962][712]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem8E24F35C4520D5207A462A800C3C6CA6.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.43.04:565][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.43.04:658][783]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.43.04:822][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.07.07-21.44.09:467][689]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Quests/Blueprints/QuestStructure/Quests.Quests
+[2020.07.07-21.44.15:095][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.44.25:536][339]BlueprintLog: New page: Collapse to Macro
+[2020.07.07-21.44.34:975][345]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.44.35:133][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.07.07-21.44.52:878][243]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.07-21.45.13:244][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.45.13:285][310]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemBE9FF8EF4AB7F22B8FBD8EBEF80DE3F8.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.45.14:023][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.45.14:117][390]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.45.14:291][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.07.07-21.45.15:652][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.45.15:690][508]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem63ED645D4D6C647E45EE4598F93E8EE8.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.45.18:236][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.45.52:764][222]LogEditorViewport: Clicking on Actor (LMB): VRCharacter_C (VRCharacter)
+[2020.07.07-21.45.55:041][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.46.10:184][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.46.10:235][532]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystem004AAEF64EA544F251153288FB7FF573.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.46.12:944][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.46.13:027][728]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.46.13:244][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.07.07-21.46.23:073][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.46.23:113][237]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemAE36B2E443F3A9C6F2783EBDBF4EB5A4.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.46.23:608][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.46.23:712][277]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.46.23:878][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.07.07-21.46.33:258][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.46.33:303][974]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemB7AC16424087CD025186CBB59DFDFC37.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.46.33:996][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.46.34:074][ 34]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.46.34:235][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.07.07-21.46.43:358][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.46.43:412][749]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemD4648E3544B593BE3C93F0B6C880107A.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.46.43:614][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.46.44:820][859]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.46.44:979][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.07.07-21.47.13:416][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.47.13:474][ 77]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemA75BFBDC4522ADA8DC898DA809DD18DF.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.47.13:951][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.48.10:946][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.48.10:986][539]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemCA4296BB4EE986678A528C9368A447A2.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.48.11:371][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.49.45:268][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestSystem" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset" SILENT=true
+[2020.07.07-21.49.45:314][881]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestSystemD555480C461BE2B1EF6ED5A342DB9B82.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestSystem.uasset'
+[2020.07.07-21.49.45:814][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.49.45:911][922]BlueprintLog: New page: Compile QuestSystem
+[2020.07.07-21.49.45:916][922]LogClass: Warning: Type mismatch in ActiveWaypoint of QuestSystem_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.07.07-21.49.45:918][922]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.07-21.49.46:266][922]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.347 s
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: 
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: Stack: 
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a854a77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a797a66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a6d9457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a6eb07a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a6e4841 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a73683e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa4a49def4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa237d1e14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa29e2047d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa29e516a8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa2b508613 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa2b4bf561 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa2b4720f6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa23815644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa2b55dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa2b579188 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa313e180a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa314b9122 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa3149aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa31552a12 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa313a4021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa31420301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa3140aaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa31400414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa52dfb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa52deef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa52dfd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa52dec090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffaaf305c0d USER32.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffaaf305602 USER32.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffa52dfe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d7085d3e UE4Editor.exe!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d709554c UE4Editor.exe!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d70955ca UE4Editor.exe!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d70a316c UE4Editor.exe!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ff6d70a5b8e UE4Editor.exe!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffab0bd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: [Callstack] 0x00007ffab118ce51 ntdll.dll!UnknownFunction []
+[2020.07.07-21.49.46:266][922]LogOutputDevice: Error: 
+[2020.07.07-21.49.46:272][922]LogStats:                SubmitErrorReport -  0.000 s
+[2020.07.07-21.49.47:100][922]LogStats:                    SendNewReport -  0.828 s
+[2020.07.07-21.49.47:100][922]LogStats:             FDebug::EnsureFailed -  1.182 s
+[2020.07.07-21.49.47:261][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.07.07-21.51.15:652][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.07.07-21.51.15:652][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.037
+[2020.07.07-21.51.15:653][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Quests/Blueprints/QuestStructure/Targets] ([1] browsable assets)...
+[2020.07.07-21.51.15:654][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/QuestStructure/Targets]
+[2020.07.07-21.51.15:660][313]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Targets_Auto77F6D5E6049A3A3441A1642B344F44B0E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/QuestStructure/Targets_Auto7.uasset'
+[2020.07.07-21.51.15:661][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Quests/Blueprints/Waypoint] ([1] browsable assets)...
+[2020.07.07-21.51.15:673][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Quests/Blueprints/Waypoint.Waypoint]
+[2020.07.07-21.51.15:673][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quests/Blueprints/Waypoint]
+[2020.07.07-21.51.15:673][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/Waypoint" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/Waypoint_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.07.07-21.51.15:704][313]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Waypoint_Auto7FE1FFB1C4F66E2CEFA7E3F975792497D.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Autosaves/Game/Quests/Blueprints/Waypoint_Auto7.uasset'
+[2020.07.07-21.51.15:704][313]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.07.07-21.51.21:363][330]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-21.51.21:379][330]LogSlate: Window 'Quests' being destroyed
+[2020.07.07-21.51.21:943][330]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.07-21.51.26:832][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.07.07-21.53.47:747][345]LogSlate: Window 'Save Content' being destroyed
+[2020.07.07-21.53.47:753][345]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-21.53.47:753][345]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-21.53.49:684][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-21.54.15:989][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-21.54.16:018][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.07.07-21.54.16:223][985]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/SidsTestMap8A65A881441714555CE2A98EE1F29ECB.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-21.54.28:549][ 29]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.796 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.07.07-21.58.08:939][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.07.07-21.58.12:461][827]LogSlate: Window 'Save Content' being destroyed
+[2020.07.07-21.58.12:483][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestBase" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset" SILENT=true
+[2020.07.07-21.58.12:527][827]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestBase4C29F9F14D1471A72B299097FAD1F15F.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestBase.uasset'
+[2020.07.07-21.58.12:538][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/QuestStructure/Targets" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Targets.uasset" SILENT=true
+[2020.07.07-21.58.12:548][827]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/Targets54FB88FC4E62B2D9FDCFD0A10B659D4B.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/QuestStructure/Targets.uasset'
+[2020.07.07-21.58.12:559][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Blueprints/Waypoint" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/Waypoint.uasset" SILENT=true
+[2020.07.07-21.58.12:574][827]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/WaypointCA819592451C053993CA3CA43945146E.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Blueprints/Waypoint.uasset'
+[2020.07.07-21.58.12:585][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/ferrum_Font" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/ferrum_Font.uasset" SILENT=true
+[2020.07.07-21.58.12:591][827]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/ferrum_Font65FAD2E24D991E1BD479BB8E410C8E0C.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/ferrum_Font.uasset'
+[2020.07.07-21.58.12:606][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quests/Widgets/QuestScreen" FILE="D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Widgets/QuestScreen.uasset" SILENT=true
+[2020.07.07-21.58.12:635][827]LogSavePackage: Moving 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Saved/QuestScreen6F65F4DA4745AFE73739D2A6FDA4B843.tmp' to 'D:/Unreal Game Repo/VR_RPG/VR_RPG/Content/Quests/Widgets/QuestScreen.uasset'
+[2020.07.07-21.58.12:772][827]LogSlate: Window 'VR_RPG - Unreal Editor' being destroyed
+[2020.07.07-21.58.12:773][827]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.07-21.58.13:063][828]Cmd: QUIT_EDITOR
+[2020.07.07-21.58.13:081][828]LogHMD: SteamVR Shutting down.
+[2020.07.07-21.58.13:111][828]LogExit: Preparing to exit.
+[2020.07.07-21.58.14:322][828]LogExit: Editor shut down
+[2020.07.07-21.58.14:322][828]LogExit: Transaction tracking system shut down
+[2020.07.07-21.58.14:777][828]LogExit: Object subsystem successfully closed.
+[2020.07.07-21.58.14:795][828]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.07-21.58.14:801][828]LogD3D11RHI: Shutdown
+[2020.07.07-21.58.14:801][828]LogD3D11RHI: CleanupD3DDevice
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-21.58.14:801][828]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-21.58.14:933][828]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (652)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module SequencerWidgets (650)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module DataTableEditor (648)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.07.07-21.58.14:941][828]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.07.07-21.58.14:944][828]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.07.07-21.58.14:944][828]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.07.07-21.58.14:944][828]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MeshBuilder (632)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.07.07-21.58.14:945][828]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.07.07-21.58.14:946][828]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.07.07-21.58.16:297][828]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.07.07-21.58.16:297][828]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.07.07-21.58.16:297][828]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.07.07-21.58.16:297][828]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.07.07-21.58.16:306][828]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.07.07-21.58.16:307][828]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.07.07-21.58.16:360][828]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.07.07-21.58.16:366][828]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.07.07-21.58.16:366][828]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.07.07-21.58.16:368][828]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.07.07-21.58.16:372][828]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.07.07-21.58.16:461][828]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.07.07-21.58.16:462][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.07.07-21.58.16:463][828]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.07.07-21.58.16:563][828]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.07.07-21.58.16:664][828]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.07-21.58.16:664][828]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.07.07-21.58.16:664][828]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.07.07-21.58.16:665][828]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.07.07-21.58.16:665][828]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.07.07-21.58.16:665][828]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.07.07-21.58.16:665][828]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.07.07-21.58.16:665][828]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.07.07-21.58.16:666][828]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.07.07-21.58.16:667][828]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.07.07-21.58.16:668][828]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.07.07-21.58.16:712][828]LogDerivedDataCache: Shutdown
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.07.07-21.58.16:712][828]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.07.07-21.58.16:713][828]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.07.07-21.58.16:714][828]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.07.07-21.58.16:714][828]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.07.07-21.58.16:722][828]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.07.07-21.58.16:723][828]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.07.07-21.58.16:723][828]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.07.07-21.58.16:724][828]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.07.07-21.58.16:724][828]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.07.07-21.58.16:762][828]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.07.07-21.58.16:762][828]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.07-21.58.16:763][828]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA9B94F57-4414-4250-92A1-90AA9E7DF707%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=0409bc2946840b7ea98deb94512a4029%7Cd720290b62ad4dd5ba3d468e604064f8%7C64815a74-409a-4eaf-a626-bcbd56a0b932&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.07.07-21.58.16:794][828]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.07.07-21.58.16:795][828]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.07.07-21.58.16:799][828]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.07-21.58.16:807][828]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.07-21.58.16:808][828]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.07-21.58.16:808][828]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.07-21.58.16:808][828]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.07-21.58.16:808][828]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.07-21.58.16:809][828]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.07-21.58.16:821][828]LogExit: Exiting.
+[2020.07.07-21.58.16:849][828]Log file closed, 07/07/20 17:58:16
