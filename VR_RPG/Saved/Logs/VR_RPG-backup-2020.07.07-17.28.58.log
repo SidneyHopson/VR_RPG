@@ -1,0 +1,1490 @@
+﻿Log file open, 07/07/20 11:52:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_RPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.431591
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2020.07.07-15.52.57:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:564][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.07-15.52.57:565][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:565][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:580][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.07-15.52.57:580][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.07-15.52.57:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.07-15.52.57:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.07-15.52.57:582][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.07-15.52.57:582][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.07-15.52.57:634][  0]LogHAL: Display: Platform has ~ 32 GB [34306633728 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.07.07-15.52.57:634][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.07-15.52.57:634][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.07-15.52.57:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.07-15.52.57:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Scalability.ini]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.07-15.52.57:636][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.07-15.52.57:636][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.07-15.52.57:637][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.07-15.52.57:637][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Config/Windows/Engine.ini]
+[2020.07.07-15.52.57:637][  0]LogInit: Computer: DESKTOP-KFB1H2A
+[2020.07.07-15.52.57:637][  0]LogInit: User: sidne
+[2020.07.07-15.52.57:637][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.07.07-15.52.57:637][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.07-15.52.57:637][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.07.07-15.52.57:637][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.07-15.52.57:637][  0]LogMemory: Process Physical Memory: 101.00 MB used, 101.00 MB peak
+[2020.07.07-15.52.57:637][  0]LogMemory: Process Virtual Memory: 105.72 MB used, 105.72 MB peak
+[2020.07.07-15.52.57:637][  0]LogMemory: Physical Memory: 10503.46 MB used,  22213.90 MB free, 32717.36 MB total
+[2020.07.07-15.52.57:637][  0]LogMemory: Virtual Memory: 4689.02 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2020.07.07-15.52.57:673][  0]LogInit: Using OS detected language (en-US).
+[2020.07.07-15.52.57:673][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.07-15.52.57:675][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.07-15.52.57:977][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.07-15.52.58:037][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.07-15.52.58:037][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.07-15.53.04:951][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.07-15.53.05:057][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.07.07-15.53.05:057][  0]LogD3D11RHI:       8031/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.07-15.53.05:061][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.07-15.53.05:061][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.07-15.53.05:061][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.07-15.53.05:080][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.07-15.53.05:080][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.07-15.53.05:080][  0]LogWindows: EnumDisplayDevices:
+[2020.07.07-15.53.05:080][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.07.07-15.53.05:080][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.07.07-15.53.05:081][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.07.07-15.53.05:081][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.07.07-15.53.05:081][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.07-15.53.05:081][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.07.07-15.53.05:081][  0]LogD3D11RHI:   Driver Version: 441.87 (internal:26.21.14.4187, unified:441.87)
+[2020.07.07-15.53.05:081][  0]LogD3D11RHI:      Driver Date: 12-24-2019
+[2020.07.07-15.53.05:081][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.07.07-15.53.05:161][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.07-15.53.05:175][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-15.53.05:175][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-15.53.05:175][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.07.07-15.53.05:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.07-15.53.05:570][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.07.07-15.53.05:592][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.07.07-15.53.05:613][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.07.07-15.53.05:635][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.07.07-15.53.05:658][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.07.07-15.53.05:678][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.07.07-15.53.05:698][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.07-15.53.05:721][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.07.07-15.53.05:730][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.07.07-15.53.05:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.07.07-15.53.05:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.07.07-15.53.05:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.07.07-15.53.05:854][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.07.07-15.53.05:855][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.07.07-15.53.05:858][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.07.07-15.53.05:921][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.07.07-15.53.05:921][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.07.07-15.53.05:956][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.07.07-15.53.05:956][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.07.07-15.53.05:975][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.07.07-15.53.05:993][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.07-15.53.06:012][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.07.07-15.53.06:032][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.07.07-15.53.06:103][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.07.07-15.53.06:103][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.07.07-15.53.06:103][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.07-15.53.06:117][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.07-15.53.06:199][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Intermediate/Shaders/WorkingDirectory/23592/).
+[2020.07.07-15.53.06:199][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sidne/AppData/Local/Temp/UnrealShaderWorkingDir/C78789114CD650DA3259F2878AE7C68E/'.
+[2020.07.07-15.53.06:204][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.07-15.53.06:204][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.07-15.53.06:204][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.07-15.53.06:912][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: Loaded boot cache 0.08s 86MB C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.07-15.53.06:995][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.07-15.53.07:011][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.07-15.53.07:011][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.07-15.53.07:011][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.07-15.53.07:023][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sidne/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.07-15.53.07:023][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.07-15.53.07:023][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.07-15.53.07:576][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.07-15.53.07:578][  0]LogSlate: Using FreeType 2.6.0
+[2020.07.07-15.53.07:578][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.07-15.53.07:681][  0]LogAssetRegistry: FAssetRegistry took 0.0387 seconds to start up
+[2020.07.07-15.53.08:241][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.07-15.53.08:648][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.07-15.53.08:648][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.07-15.53.08:648][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.07-15.53.08:648][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.07-15.53.08:648][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.07-15.53.08:664][  0]LogNetVersion: VR_RPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1435855290)
+[2020.07.07-15.53.10:012][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.118521 seconds
+[2020.07.07-15.53.10:024][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.07.07-15.53.10:024][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.07.07-15.53.10:024][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.07-15.53.12:866][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.07-15.53.12:883][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.07-15.53.13:080][  0]SourceControl: Source control is disabled
+[2020.07.07-15.53.13:080][  0]SourceControl: Source control is disabled
+[2020.07.07-15.53.13:082][  0]SourceControl: Source control is disabled
+[2020.07.07-15.53.13:084][  0]SourceControl: Source control is disabled
+[2020.07.07-15.53.13:275][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.07-15.53.13:708][  0]LogOcInput: OculusInput pre-init called
+[2020.07.07-15.53.16:001][  0]LogEngine: Initializing Engine...
+[2020.07.07-15.53.16:003][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-11001510
+[2020.07.07-15.53.16:004][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.07-15.53.17:187][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.07-15.53.17:213][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.07-15.53.17:343][  0]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-15.53.17:613][  0]LogInit: FAudioDevice initialized.
+[2020.07.07-15.53.17:614][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.07-15.53.17:952][  0]LogDerivedDataCache: Saved boot cache 0.34s 102MB C:/Users/sidne/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.07.07-15.53.17:970][  0]LogInit: Texture streaming: Enabled
+[2020.07.07-15.53.18:003][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.07-15.53.18:056][  0]LogInit: Transaction tracking system initialized
+[2020.07.07-15.53.18:096][  0]BlueprintLog: New page: Editor Load
+[2020.07.07-15.53.18:248][  0]LocalizationService: Localization service is disabled
+[2020.07.07-15.53.20:515][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.07-15.53.20:516][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.07-15.53.21:043][  0]SourceControl: Source control is disabled
+[2020.07.07-15.53.21:043][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.07-15.53.21:043][  0]LightingResults: New page: Lighting Build
+[2020.07.07-15.53.21:048][  0]MapCheck: New page: Map Check
+[2020.07.07-15.53.21:048][  0]LightingResults: New page: Lighting Build
+[2020.07.07-15.53.21:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.07-15.53.24:044][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/' took 4.37s
+[2020.07.07-15.53.25:066][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Invenotry/Widgets/InventoryWindow.InventoryWindow_C:ItemList'. Unknown structure.
+[2020.07.07-15.53.25:066][  0]LogClass: Warning: Property ItemList of ItemList has a struct type mismatch (tag STRUCT_REINST_Items_34 != prop FallbackStruct) in package:  ../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Invenotry/Widgets/InventoryWindow.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.07.07-15.53.26:854][  0]LogClass: Warning: Property ItemList of ItemList has a struct type mismatch (tag FallbackStruct != prop Items) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2020.07.07-15.53.28:149][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:150][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.28:157][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:157][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.28:159][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:160][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.28:160][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:160][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.28:162][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:162][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Widgets/Space_Mat.Space_Mat Referenced by K2Node_CallFunction_40283
+[2020.07.07-15.53.28:163][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.28:171][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Widgets/Space_Mat'
+[2020.07.07-15.53.28:171][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Widgets/Space_Mat.Space_Mat Referenced by SkySphereMesh_GEN_VARIABLE
+[2020.07.07-15.53.28:172][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Widgets/Space_Mat' while loading NULL.
+[2020.07.07-15.53.31:631][  0]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-15.53.31:644][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2020.07.07-15.53.31:644][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2020.07.07-15.53.31:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.07-15.53.31:747][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.07.07-15.53.31:748][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.07-15.53.31:748][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
+[2020.07.07-15.53.31:748][  0]LogFileHelpers: Loading map 'SidsTestMap' took 10.705
+[2020.07.07-15.53.31:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-15.53.31:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-15.53.31:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-15.53.31:973][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-15.53.31:988][  0]LogCollectionManager: Loaded 0 collections in 0.002608 seconds
+[2020.07.07-15.53.32:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Collections/' took 0.01s
+[2020.07.07-15.53.32:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Developers/sidne/Collections/' took 0.00s
+[2020.07.07-15.53.32:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Collections/' took 0.01s
+[2020.07.07-15.53.32:017][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.07.07-15.53.32:028][  0]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2753 classes and 669 folders.
+[2020.07.07-15.53.32:037][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.07-15.53.32:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.07.07-15.53.32:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.07-15.53.32:899][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.07.07-15.53.32:907][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.07.07-15.53.33:033][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.07-15.53.33:035][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.07-15.53.33:056][  0]LogSlate: Took 0.015106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.07-15.53.33:056][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.07-15.53.33:252][  0]LogRenderer: Reallocating scene render targets to support 1244x672 Format 10 NumSamples 1 (Frame:1).
+[2020.07.07-15.53.33:389][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.07-15.53.33:389][  0]LogLoad: (Engine Initialization) Total time: 39.63 seconds
+[2020.07.07-15.53.33:389][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.07-15.53.34:096][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.07-15.53.34:102][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.07.07-15.53.34:139][  0]LogSlate: Took 0.018426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.07-15.53.39:135][  4]LogAssetRegistry: Asset discovery search completed in 31.4769 seconds
+[2020.07.07-15.53.39:140][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.07.07-15.53.39:140][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000313 seconds (updated 0 objects)
+[2020.07.07-15.53.48:251][ 15]LogSlate: Window 'Message Log' being destroyed
+[2020.07.07-15.53.48:263][ 15]LogSlate: Window 'Message Log' being destroyed
+[2020.07.07-15.53.50:225][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-15.53.56:098][172]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/' took 22.63s
+[2020.07.07-15.53.57:303][254]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Animations/Griffon_MovingAttack.Griffon_MovingAttack
+[2020.07.07-15.53.57:432][254]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.07.07-15.53.57:862][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-15.53.57:901][254]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.07.07-15.53.58:020][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-15.58.54:965][188]LogSlate: Window 'Griffon_MovingAttack' being destroyed
+[2020.07.07-15.58.58:659][496]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/GriffonAnim.GriffonAnim
+[2020.07.07-15.58.58:675][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-15.58.59:165][496]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 121 classes and 0 folders.
+[2020.07.07-15.59.00:229][496]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-15.59.00:680][496]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.07-15.59.00:900][496]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.07-15.59.00:942][497]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.07-16.01.07:269][531]BlueprintLog: New page: Compile GriffonAnim
+[2020.07.07-16.01.07:564][531]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.07.07-16.01.08:012][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/GriffonAnim" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/GriffonAnim.uasset" SILENT=true
+[2020.07.07-16.01.08:373][555]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/GriffonAnimD22FBEC74A6D2E3F193DF5BC7D9D1FC4.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/GriffonAnim.uasset'
+[2020.07.07-16.03.03:862][594]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Griffon.Griffon
+[2020.07.07-16.03.24:616][831]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/EnemyAI_BT.EnemyAI_BT
+[2020.07.07-16.03.27:182][982]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/MeleeAttack.MeleeAttack
+[2020.07.07-16.07.40:260][119]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/IsPlayerInRange.IsPlayerInRange
+[2020.07.07-16.17.38:291][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAI_BT" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset" SILENT=true
+[2020.07.07-16.17.38:436][840]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BT2C724D4C412C50752413389EB1A582DA.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset'
+[2020.07.07-16.17.47:048][218]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/IsPlayerInRangeD115ADAE48C5A1B3757BD189D6AD9EA1.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/IsPlayerInRange.uasset'
+[2020.07.07-16.17.49:871][449]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.17.49:947][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.17.49:951][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.17.49:952][449]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:17:49 AM)
+[2020.07.07-16.17.49:965][449]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.17.49:975][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009924s)
+[2020.07.07-16.17.49:976][449]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.17.49:976][449]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2020.07.07-16.17.49:977][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.011591s)
+[2020.07.07-16.17.50:035][449]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.07.07-16.17.50:153][449]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.17.50:421][449]LogInit: FAudioDevice initialized.
+[2020.07.07-16.17.50:436][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.17.50:490][449]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.17.50:499][449]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.17.50
+[2020.07.07-16.17.50:501][449]LogWorld: Bringing up level for play took: 0.009718
+[2020.07.07-16.17.50:521][449]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.07.07-16.17.50:529][449]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.07.07-16.17.50:530][449]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.07.07-16.17.50:551][449]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.51
+[2020.07.07-16.17.50:552][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.17.50:598][450]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2020.07.07-16.19.15:759][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.19.15:838][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.19.15:921][ 21]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.19.15:967][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.19.15:967][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.19.16:052][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2020.07.07-16.19.16:072][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.07.07-16.20.06:882][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2020.07.07-16.20.38:654][555]BlueprintLog: New page: Compile EnemyController
+[2020.07.07-16.20.39:005][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.07.07-16.20.39:497][576]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyController1A77DF914A8796ED6BFF7CAC71F13068.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyController.uasset'
+[2020.07.07-16.20.42:187][786]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.20.42:251][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.20.42:256][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.20.42:256][786]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:20:42 AM)
+[2020.07.07-16.20.42:257][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.20.42:269][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011516s)
+[2020.07.07-16.20.42:270][786]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.20.42:270][786]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2020.07.07-16.20.42:270][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.013291s)
+[2020.07.07-16.20.42:329][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.07.07-16.20.42:450][786]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.20.42:726][786]LogInit: FAudioDevice initialized.
+[2020.07.07-16.20.42:742][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.20.42:786][786]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.20.42:796][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.20.42
+[2020.07.07-16.20.42:798][786]LogWorld: Bringing up level for play took: 0.010685
+[2020.07.07-16.20.42:833][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.793
+[2020.07.07-16.20.42:834][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.21.34:262][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.21.34:343][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.21.34:404][283]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.21.34:448][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.21.34:449][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.21.34:533][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.07.07-16.21.34:553][284]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.07.07-16.22.41:878][636]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/DeathAnimations.DeathAnimations
+[2020.07.07-16.22.50:279][184]BlueprintLog: New page: Compile DeathAnimations
+[2020.07.07-16.22.50:628][184]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.07.07-16.22.51:187][210]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/DeathAnimations9F30E50E46E191B47A88F6BAE60E9E67.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/DeathAnimations.uasset'
+[2020.07.07-16.22.52:951][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAI_BT" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset" SILENT=true
+[2020.07.07-16.22.53:094][309]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BTA3840D13492A2FF8D98BD18FE4734125.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset'
+[2020.07.07-16.23.06:185][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAI_BT" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset" SILENT=true
+[2020.07.07-16.23.06:317][183]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BT4E7238904AEE8FF0CA3242B4EA646276.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset'
+[2020.07.07-16.23.09:659][418]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.23.09:731][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.23.09:736][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.23.09:736][418]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:23:09 AM)
+[2020.07.07-16.23.09:736][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.23.09:748][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010826s)
+[2020.07.07-16.23.09:749][418]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.23.09:749][418]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2020.07.07-16.23.09:749][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.012655s)
+[2020.07.07-16.23.09:811][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.07.07-16.23.09:937][418]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.23.10:218][418]LogInit: FAudioDevice initialized.
+[2020.07.07-16.23.10:231][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.23.10:270][418]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.23.10:280][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.23.10
+[2020.07.07-16.23.10:283][418]LogWorld: Bringing up level for play took: 0.012638
+[2020.07.07-16.23.10:321][418]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.281
+[2020.07.07-16.23.10:322][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.23.56:262][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.23.56:343][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.23.56:414][490]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.23.56:461][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.23.56:462][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.23.56:539][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.07.07-16.23.56:557][491]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.07-16.24.17:012][136]BlueprintLog: New page: Compile IsPlayerInRange
+[2020.07.07-16.24.17:354][136]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.07.07-16.24.17:839][155]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/IsPlayerInRangeA16F215D48A62F8085B4298539D1B251.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/IsPlayerInRange.uasset'
+[2020.07.07-16.24.32:327][ 78]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/FindPlayerLocation.FindPlayerLocation
+[2020.07.07-16.24.41:381][688]BlueprintLog: New page: Compile FindPlayerLocation
+[2020.07.07-16.24.41:730][688]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.07.07-16.24.42:295][713]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/FindPlayerLocationD147CFD240B70504AD0D17947C642463.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/FindPlayerLocation.uasset'
+[2020.07.07-16.25.27:777][ 47]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/ChasePlayer.ChasePlayer
+[2020.07.07-16.26.04:323][154]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.26.04:728][154]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.07.07-16.26.05:189][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.26.05:350][179]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon13562E2C4F9DCB7A0E95CCB9BB728738.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.26.50:839][842]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.26.51:238][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.07.07-16.26.51:705][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.26.51:854][867]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon1723122A40FBE9E78C651399D6A8DE87.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.26.55:009][ 96]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.26.55:104][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.26.55:108][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.26.55:109][ 96]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:26:55 AM)
+[2020.07.07-16.26.55:109][ 96]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.26.55:121][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011922s)
+[2020.07.07-16.26.55:122][ 96]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.26.55:122][ 96]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2020.07.07-16.26.55:122][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.013579s)
+[2020.07.07-16.26.55:183][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.07.07-16.26.55:303][ 96]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.26.55:575][ 96]LogInit: FAudioDevice initialized.
+[2020.07.07-16.26.55:592][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.26.55:632][ 96]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.26.55:640][ 96]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.26.55
+[2020.07.07-16.26.55:642][ 96]LogWorld: Bringing up level for play took: 0.009010
+[2020.07.07-16.26.55:680][ 96]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap -0.361
+[2020.07.07-16.26.55:681][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.28.06:843][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.28.06:925][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.28.06:986][287]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.28.07:030][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.28.07:030][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.28.07:118][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.07.07-16.28.07:138][288]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.07.07-16.29.52:055][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.07-16.32.56:819][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.07.07-16.32.57:378][829]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMap_Auto17ADA41E040482E4E8934A7BEEE53E845.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/SidsTestMap_Auto1.umap'
+[2020.07.07-16.32.57:391][829]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.642
+[2020.07.07-16.32.57:391][829]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.642
+[2020.07.07-16.32.57:393][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/EnemyAI_BT] ([1] browsable assets)...
+[2020.07.07-16.32.57:394][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/EnemyAI_BT]
+[2020.07.07-16.32.57:543][829]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BT_Auto168FF746248A495EF2A6258B0C53D31FA.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Blueprints/Enemies/EnemyAI_BT_Auto1.uasset'
+[2020.07.07-16.32.57:546][829]LogFileHelpers: Auto-saving content packages took 0.154
+[2020.07.07-16.35.38:789][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAI_BT" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset" SILENT=true
+[2020.07.07-16.35.38:932][793]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BTD79FDD57437FA06368DDFEB57F4F3E46.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset'
+[2020.07.07-16.36.06:064][614]BlueprintLog: New page: Compile FindPlayerLocation
+[2020.07.07-16.36.06:433][614]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.07.07-16.36.06:946][636]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/FindPlayerLocationBA4C70204B0F24C0B26EACB2209E509A.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/FindPlayerLocation.uasset'
+[2020.07.07-16.36.29:511][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-16.36.41:883][583]LogEditorTransaction: Undo Modify Component(s)
+[2020.07.07-16.36.42:052][583]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-16.36.45:527][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-16.38.15:925][499]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.38.16:384][499]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.07.07-16.38.16:847][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.38.17:018][525]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon7BC3F2954D230010ABC132975FE3D132.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.39.04:751][936]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.39.05:170][936]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.07.07-16.39.06:297][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.39.06:446][  8]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon31A4534F428C0FF0014B8999DA698834.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.39.21:824][953]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.39.22:224][953]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.07.07-16.39.22:751][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.39.22:902][984]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon61F80AD74EDB8422C277099948FD4D67.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.39.31:275][622]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.39.31:369][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.39.31:373][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.39.31:374][622]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:39:31 AM)
+[2020.07.07-16.39.31:374][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.39.31:385][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011465s)
+[2020.07.07-16.39.31:386][622]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.39.31:387][622]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2020.07.07-16.39.31:387][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.012993s)
+[2020.07.07-16.39.31:453][622]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.07.07-16.39.31:575][622]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.39.31:861][622]LogInit: FAudioDevice initialized.
+[2020.07.07-16.39.31:876][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.39.31:919][622]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.39.31:926][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.39.31
+[2020.07.07-16.39.31:928][622]LogWorld: Bringing up level for play took: 0.008540
+[2020.07.07-16.39.31:961][622]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap -0.08
+[2020.07.07-16.39.31:961][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.09:474][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.09:556][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.40.09:619][942]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.40.09:663][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.40.09:663][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.09:757][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.07.07-16.40.09:778][943]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.07.07-16.40.13:954][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.13:958][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.40.13:959][385]PIE: New page: SIE session: SidsTestMap (Jul 7, 2020, 8:40:13 AM)
+[2020.07.07-16.40.13:959][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.40.13:971][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012254s)
+[2020.07.07-16.40.13:973][385]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.40.13:974][385]LogPlayLevel: PIE: World Init took: (0.001989s)
+[2020.07.07-16.40.13:974][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.015215s)
+[2020.07.07-16.40.14:043][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.07.07-16.40.14:168][385]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.40.14:441][385]LogInit: FAudioDevice initialized.
+[2020.07.07-16.40.14:472][385]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.40.14:480][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.40.14
+[2020.07.07-16.40.14:482][385]LogWorld: Bringing up level for play took: 0.008457
+[2020.07.07-16.40.14:515][385]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.07-16.40.14:532][385]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.491
+[2020.07.07-16.40.14:646][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.16:353][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.16:358][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.40.16:407][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.40.16:407][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.40.16:481][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.40.16:491][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.07.07-16.40.16:508][515]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.07.07-16.40.17:985][675]LogEditorViewport: Clicking on Actor (LMB): Griffon_C (Griffon)
+[2020.07.07-16.40.20:649][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-16.40.56:589][626]BlueprintLog: New page: Compile Griffon
+[2020.07.07-16.40.57:101][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.07.07-16.40.57:545][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-16.40.57:693][644]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Griffon0449B0EB4767F15499D2A0967E0CA537.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-16.41.00:170][786]LogTemp: Repeating last play command: Simulate
+[2020.07.07-16.41.00:267][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.00:271][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.41.00:271][786]PIE: New page: SIE session: SidsTestMap (Jul 7, 2020, 8:41:00 AM)
+[2020.07.07-16.41.00:271][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.41.00:285][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013418s)
+[2020.07.07-16.41.00:286][786]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.41.00:287][786]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2020.07.07-16.41.00:287][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.015718s)
+[2020.07.07-16.41.00:350][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.07.07-16.41.00:482][786]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.41.00:752][786]LogInit: FAudioDevice initialized.
+[2020.07.07-16.41.00:781][786]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.41.00:788][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.41.00
+[2020.07.07-16.41.00:790][786]LogWorld: Bringing up level for play took: 0.009057
+[2020.07.07-16.41.00:803][786]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.07-16.41.00:819][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.778
+[2020.07.07-16.41.00:866][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.02:555][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.02:561][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.41.02:598][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.41.02:598][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.02:680][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.41.02:690][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.07.07-16.41.02:711][940]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.07.07-16.41.04:365][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.04:369][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.41.04:369][ 83]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:41:04 AM)
+[2020.07.07-16.41.04:370][ 83]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.41.04:382][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012118s)
+[2020.07.07-16.41.04:383][ 83]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.41.04:383][ 83]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.07.07-16.41.04:383][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.013692s)
+[2020.07.07-16.41.04:457][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.07.07-16.41.04:591][ 83]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.41.04:873][ 83]LogInit: FAudioDevice initialized.
+[2020.07.07-16.41.04:889][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.41.04:929][ 83]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.41.04:940][ 83]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.41.04
+[2020.07.07-16.41.04:942][ 83]LogWorld: Bringing up level for play took: 0.012009
+[2020.07.07-16.41.04:979][ 83]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 0.938
+[2020.07.07-16.41.04:980][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.24:804][824]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.092084 > MaxSimulationTimeStep (0.050) for 'VRCharacter_2', movement 'Falling'
+[2020.07.07-16.41.24:846][826]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-114.18 Y=15.05 Z=0.00 Location: X=-1565.58 Y=922.71 Z=118.15 Normal: X=0.19 Y=0.88 Z=-0.43 PenetrationDepth:47.839 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck (0 other events since notify)
+[2020.07.07-16.41.29:369][156]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-227.24 Y=-939.06 Z=0.00 Location: X=-1512.48 Y=912.60 Z=116.21 Normal: X=-0.65 Y=-0.03 Z=-0.76 PenetrationDepth:3.772 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck1 (0 other events since notify)
+[2020.07.07-16.41.31:335][284]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-37.36 Y=1.18 Z=0.00 Location: X=-1802.48 Y=882.25 Z=135.54 Normal: X=0.93 Y=0.36 Z=0.00 PenetrationDepth:1.901 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-L-UpperArm (4 other events since notify)
+[2020.07.07-16.41.35:548][590]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-3.04 Y=16.87 Z=0.00 Location: X=-1493.13 Y=1805.93 Z=118.03 Normal: X=0.47 Y=-0.36 Z=-0.81 PenetrationDepth:4.332 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck1 (5 other events since notify)
+[2020.07.07-16.41.36:550][680]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=21.41 Y=38.37 Z=0.00 Location: X=-1493.13 Y=1805.93 Z=118.03 Normal: X=0.76 Y=0.19 Z=0.62 PenetrationDepth:7.342 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-R-Finger1 (53 other events since notify)
+[2020.07.07-16.41.39:579][940]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=83.18 Y=575.36 Z=0.00 Location: X=-1537.70 Y=2387.59 Z=116.23 Normal: X=-0.08 Y=-0.45 Z=-0.89 PenetrationDepth:2.893 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Head (70 other events since notify)
+[2020.07.07-16.41.46:661][478]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-109.11 Y=-115.53 Z=0.00 Location: X=-2030.61 Y=1848.04 Z=116.07 Normal: X=-0.59 Y=-0.42 Z=-0.69 PenetrationDepth:9.765 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck2 (8 other events since notify)
+[2020.07.07-16.41.48:536][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.48:614][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.41.48:685][646]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.41.48:726][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.41.48:727][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.41.48:820][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.07.07-16.41.48:850][647]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.07.07-16.42.55:162][621]BlueprintLog: New page: Compile FindPlayerLocation
+[2020.07.07-16.42.55:529][621]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.07.07-16.42.56:070][646]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/FindPlayerLocation8EB4DB15424EF5348FFB9AAA095F6D69.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/FindPlayerLocation.uasset'
+[2020.07.07-16.42.58:477][818]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.42.58:564][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.42.58:569][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.42.58:569][818]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:42:58 AM)
+[2020.07.07-16.42.58:569][818]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.42.58:580][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010450s)
+[2020.07.07-16.42.58:580][818]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.42.58:581][818]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.07.07-16.42.58:581][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.011890s)
+[2020.07.07-16.42.58:649][818]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.07.07-16.42.58:772][818]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.42.59:032][818]LogInit: FAudioDevice initialized.
+[2020.07.07-16.42.59:050][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.42.59:095][818]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.42.59:104][818]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.42.59
+[2020.07.07-16.42.59:106][818]LogWorld: Bringing up level for play took: 0.010737
+[2020.07.07-16.42.59:144][818]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 1.103
+[2020.07.07-16.42.59:145][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.44.55:786][213]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-92.98 Y=278.72 Z=0.00 Location: X=-2397.95 Y=4047.82 Z=118.00 Normal: X=0.08 Y=-1.00 Z=0.00 PenetrationDepth:0.103 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck (0 other events since notify)
+[2020.07.07-16.45.41:739][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.45.41:820][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.45.41:885][120]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.45.41:932][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.45.41:933][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.45.42:019][120]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.07.07-16.45.42:039][121]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.07.07-16.45.57:159][359]BlueprintLog: New page: Compile FindPlayerLocation
+[2020.07.07-16.45.57:517][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.07.07-16.45.58:016][381]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/FindPlayerLocation6DCBDC444835132FEEE18FB0A8C01020.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/FindPlayerLocation.uasset'
+[2020.07.07-16.46.04:749][868]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-16.46.04:841][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.46.04:845][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-16.46.04:845][868]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 8:46:04 AM)
+[2020.07.07-16.46.04:845][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-16.46.04:856][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010962s)
+[2020.07.07-16.46.04:857][868]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-16.46.04:858][868]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2020.07.07-16.46.04:858][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.012894s)
+[2020.07.07-16.46.04:924][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.07.07-16.46.05:045][868]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-16.46.05:322][868]LogInit: FAudioDevice initialized.
+[2020.07.07-16.46.05:338][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.46.05:380][868]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-16.46.05:389][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-12.46.05
+[2020.07.07-16.46.05:391][868]LogWorld: Bringing up level for play took: 0.010758
+[2020.07.07-16.46.05:426][868]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 1.385
+[2020.07.07-16.46.05:426][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.47.17:262][285]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=12.32 Y=-2.32 Z=0.00 Location: X=-345.28 Y=2520.18 Z=116.81 Normal: X=-0.47 Y=0.10 Z=-0.88 PenetrationDepth:8.967 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Head (0 other events since notify)
+[2020.07.07-16.47.57:496][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.47.57:577][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-16.47.57:638][880]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-16.47.57:683][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-16.47.57:683][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-16.47.57:771][880]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.07.07-16.47.57:791][881]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.07.07-16.49.10:069][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.07.07-16.49.10:622][245]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMap_Auto2B5FBF05E47F81559F893DD9870C89056.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/SidsTestMap_Auto2.umap'
+[2020.07.07-16.49.10:633][245]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.631
+[2020.07.07-16.49.10:633][245]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.631
+[2020.07.07-16.52.25:313][115]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.07-16.52.38:003][125]LogSlate: Window 'ChasePlayer' being destroyed
+[2020.07.07-16.52.55:901][140]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/EnemyAI_BT.EnemyAI_BT
+[2020.07.07-16.52.59:675][381]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/DeathAnimations.DeathAnimations
+[2020.07.07-16.53.04:904][753]BlueprintLog: New page: Compile DeathAnimations
+[2020.07.07-16.53.05:289][753]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.07.07-16.53.05:784][778]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/DeathAnimations45B34527483F47CCE6020DBF64A6CA4A.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/DeathAnimations.uasset'
+[2020.07.07-16.53.23:993][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyAI_BT" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset" SILENT=true
+[2020.07.07-16.53.24:146][131]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyAI_BT95498DE24B224E251A9CBEA3AC8E65AD.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyAI_BT.uasset'
+[2020.07.07-16.53.26:820][308]LogSlate: Window 'DeathAnimations' being destroyed
+[2020.07.07-16.53.41:181][503]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/BarghestAnim.BarghestAnim
+[2020.07.07-16.53.41:197][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-16.53.41:567][503]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-16.53.42:075][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.07-16.56.49:859][472]BlueprintLog: New page: Compile BarghestAnim
+[2020.07.07-16.56.50:252][472]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2020.07.07-16.56.50:660][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BarghestAnim" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/BarghestAnim.uasset" SILENT=true
+[2020.07.07-16.56.50:861][505]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BarghestAnimA83E6A2A48C23C4BCC099489A2B29FCD.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/BarghestAnim.uasset'
+[2020.07.07-16.57.44:664][884]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/QuadrapedCreatures/Barghest/Animations/BARGHEST_biteNormal_Montage.BARGHEST_biteNormal_Montage
+[2020.07.07-16.57.44:672][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-16.57.44:746][884]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-16.58.11:380][501]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.07-16.58.29:297][460]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BARGHEST_biteNormal_Montage314B796143A92693D934C79DA7DFA298.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/QuadrapedCreatures/Barghest/Animations/BARGHEST_biteNormal_Montage.uasset'
+[2020.07.07-16.58.39:189][  5]LogSlate: Window 'BARGHEST_biteNormal_Montage' being destroyed
+[2020.07.07-16.58.56:324][586]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/QuadrapedCreatures/Barghest/Meshes/BARGHEST_Skeleton.BARGHEST_Skeleton
+[2020.07.07-16.58.56:334][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-16.58.56:419][586]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-16.59.10:322][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-16.59.33:538][621]LogSlate: Window 'BARGHEST_Skeleton' being destroyed
+[2020.07.07-16.59.39:359][138]BlueprintLog: New page: Compile BarghestAnim
+[2020.07.07-16.59.39:646][138]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.07.07-16.59.40:058][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BarghestAnim" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/BarghestAnim.uasset" SILENT=true
+[2020.07.07-16.59.40:243][173]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BarghestAnim5F3E0C5345FED4967234709568514D78.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/BarghestAnim.uasset'
+[2020.07.07-16.59.57:451][887]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Barghest.Barghest
+[2020.07.07-17.00.42:873][526]BlueprintLog: New page: Compile Barghest
+[2020.07.07-17.00.43:168][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.07.07-17.00.43:524][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Barghest" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset" SILENT=true
+[2020.07.07-17.00.43:702][557]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Barghest3D71179E44B7A907A9DEE188C1C95F3A.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset'
+[2020.07.07-17.00.55:264][886]LogEditorViewport: Clicking on Actor (LMB): Barghest_C (Barghest)
+[2020.07.07-17.01.03:853][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-17.01.03:977][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-17.01.04:032][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.07.07-17.01.04:491][502]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMapED6D217545ECEE4D46055CAE5007FF36.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-17.03.04:796][713]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BARGHEST_biteNormal_MontageCEF66DD04BC9EE13AB7DE788C45340C5.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/BARGHEST_biteNormal_Montage.uasset'
+[2020.07.07-17.03.05:016][713]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.07.07-17.03.05:066][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.07.07-17.03.05:105][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.07.07-17.03.05:140][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Barghest" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset" SILENT=true
+[2020.07.07-17.03.05:293][713]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Barghest587426BF4ADABBBAB5EF098EBDE21769.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset'
+[2020.07.07-17.03.57:018][945]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ExternalAssets/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Bite_Montage.ANIM_Wolf_Bite_Montage
+[2020.07.07-17.03.57:028][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-17.03.57:062][945]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-17.03.57:604][945]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.07-17.04.04:404][242]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/ANIM_Wolf_Bite_MontageF9181490471987DDBF1D58AC4D1BD63D.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/ExternalAssets/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Bite_Montage.uasset'
+[2020.07.07-17.04.05:229][273]LogSlate: Window 'ANIM_Wolf_Bite_Montage' being destroyed
+[2020.07.07-17.04.09:969][600]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/ANIM_Wolf_Bite_Montage8ADCE1D046BEE9CC75E69494088E0119.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/ANIM_Wolf_Bite_Montage.uasset'
+[2020.07.07-17.04.10:192][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.07.07-17.04.10:243][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.07.07-17.04.10:286][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.07.07-17.04.13:286][747]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Animations/WolfAnim.WolfAnim
+[2020.07.07-17.04.13:302][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-17.04.13:683][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-17.04.14:204][747]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.07-17.04.59:662][ 98]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ExternalAssets/AnimalVarietyPack/Wolf/Meshes/SK_Wolf_Skeleton.SK_Wolf_Skeleton
+[2020.07.07-17.04.59:671][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.07-17.04.59:754][ 98]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.07.07-17.05.11:873][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-17.05.16:631][ 17]LogSlate: Window 'SK_Wolf_Skeleton' being destroyed
+[2020.07.07-17.05.22:212][458]BlueprintLog: New page: Compile WolfAnim
+[2020.07.07-17.05.22:510][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.07.07-17.05.22:778][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/WolfAnim" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/WolfAnim.uasset" SILENT=true
+[2020.07.07-17.05.22:976][474]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/WolfAnim70A111234A9EB94DFF01EFBB113ECBC4.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/WolfAnim.uasset'
+[2020.07.07-17.05.26:705][769]BlueprintLog: New page: Compile WolfAnim
+[2020.07.07-17.05.26:986][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.07.07-17.05.27:483][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/WolfAnim" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/WolfAnim.uasset" SILENT=true
+[2020.07.07-17.05.27:664][806]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/WolfAnim203183E6431387E12E10D9A897969415.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Animations/WolfAnim.uasset'
+[2020.07.07-17.05.41:968][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Wolf.Wolf
+[2020.07.07-17.06.11:076][900]BlueprintLog: New page: Compile Wolf
+[2020.07.07-17.06.11:386][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.07.07-17.06.11:781][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Wolf" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Wolf.uasset" SILENT=true
+[2020.07.07-17.06.11:941][925]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Wolf0BB5C5574733A325F3BF488411B2FB7F.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Wolf.uasset'
+[2020.07.07-17.06.17:312][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.07-17.06.17:849][418]LogEditorViewport: Clicking on Actor (LMB): Wolf_C (Wolf)
+[2020.07.07-17.06.21:248][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-17.06.21:337][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-17.06.21:386][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.07.07-17.06.21:832][659]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMap184262804CF6C17147E4B9A30623EE3F.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-17.10.56:862][632]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2020.07.07-17.12.39:949][ 56]BlueprintLog: New page: Compile Enemy
+[2020.07.07-17.12.40:415][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.07.07-17.12.40:975][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Enemy" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Enemy.uasset" SILENT=true
+[2020.07.07-17.12.41:176][ 77]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Enemy3A9A48074C4AF6B6E03899B2BCA02BE8.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Enemy.uasset'
+[2020.07.07-17.13.12:800][789]LogSlate: Window 'Enemy' being destroyed
+[2020.07.07-17.13.22:435][394]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/Weapon.Weapon
+[2020.07.07-17.13.50:396][853]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.07-17.15.00:223][423]BlueprintLog: New page: Compile Weapon
+[2020.07.07-17.15.00:616][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.07.07-17.15.01:048][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/Weapon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Weapons/Weapon.uasset" SILENT=true
+[2020.07.07-17.15.01:237][437]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Weapon5313FE3E461F53160D87D99D805D2E10.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Weapons/Weapon.uasset'
+[2020.07.07-17.15.11:685][  8]LogSlate: Window 'Weapon' being destroyed
+[2020.07.07-17.15.17:268][358]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Blueprints/Enemies/EnemyAI_BT.EnemyAI_BT
+[2020.07.07-17.15.29:847][ 54]LogSlate: Window 'EnemyAI_BT' being destroyed
+[2020.07.07-17.15.31:468][149]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/EnemyController.EnemyController
+[2020.07.07-17.16.11:542][ 60]BlueprintLog: New page: Compile EnemyController
+[2020.07.07-17.16.11:853][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.07.07-17.16.12:498][ 79]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/EnemyController10C3DB8149AB4F77CB357B8042506802.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/EnemyController.uasset'
+[2020.07.07-17.16.14:711][175]LogSlate: Window 'EnemyController' being destroyed
+[2020.07.07-17.16.39:743][962]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.07.07-17.16.40:211][962]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMap_Auto36CE30AFB4CC2C0196CAC2AB322C9594E.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/SidsTestMap_Auto3.umap'
+[2020.07.07-17.16.40:223][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/SidsTestMap' took 0.529
+[2020.07.07-17.16.40:223][962]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.529
+[2020.07.07-17.16.40:266][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/QuadrapedCreatures/Barghest/Meshes/BARGHEST_Skeleton] ([1] browsable assets)...
+[2020.07.07-17.16.40:267][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/QuadrapedCreatures/Barghest/Meshes/BARGHEST_Skeleton]
+[2020.07.07-17.16.40:391][962]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BARGHEST_Skeleton_Auto3175CA0FB4B7A818367BB2BB34D83D3D6.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/QuadrapedCreatures/Barghest/Meshes/BARGHEST_Skeleton_Auto3.uasset'
+[2020.07.07-17.16.40:393][962]LogFileHelpers: Auto-saving content packages took 0.168
+[2020.07.07-17.22.43:635][ 14]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/Enemy.Enemy
+[2020.07.07-17.22.48:393][201]BlueprintLog: New page: Compile Enemy
+[2020.07.07-17.22.48:840][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.07.07-17.22.49:268][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Enemy" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Enemy.uasset" SILENT=true
+[2020.07.07-17.22.49:508][216]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Enemy0128DF3F477046DE0339088D66DB6ADE.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Enemy.uasset'
+[2020.07.07-17.22.50:821][277]LogSlate: Window 'Enemy' being destroyed
+[2020.07.07-17.22.50:828][277]LogSlate: Window 'Enemy' being destroyed
+[2020.07.07-17.22.52:233][366]LogEditorViewport: Clicking on Actor (LMB): Barghest_C (Barghest)
+[2020.07.07-17.22.53:519][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.07.07-17.22.54:240][507]LogEditorViewport: Clicking on Actor (LMB): Griffon_C (Griffon)
+[2020.07.07-17.22.55:187][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.07-17.24.10:486][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.07.07-17.24.10:663][318]LogTemp: Repeating last play command: VR Preview
+[2020.07.07-17.24.10:717][318]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-17.24.10:717][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.07-17.24.10:717][318]PIE: New page: PIE session: SidsTestMap (Jul 7, 2020, 9:24:10 AM)
+[2020.07.07-17.24.10:718][318]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SidsTestMap
+[2020.07.07-17.24.10:735][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017010s)
+[2020.07.07-17.24.10:736][318]LogAIModule: Creating AISystem for world SidsTestMap
+[2020.07.07-17.24.10:737][318]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2020.07.07-17.24.10:737][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SidsTestMap.SidsTestMap to /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap (0.019173s)
+[2020.07.07-17.24.10:789][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.07.07-17.24.10:907][318]LogInit: XAudio2 using 'Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.07.07-17.24.11:179][318]LogInit: FAudioDevice initialized.
+[2020.07.07-17.24.11:191][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-17.24.11:224][318]LogLoad: Game class is 'RPG_GameMode_C'
+[2020.07.07-17.24.11:233][318]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SidsTestMap.SidsTestMap up for play (max tick rate 0) at 2020.07.07-13.24.11
+[2020.07.07-17.24.11:235][318]LogWorld: Bringing up level for play took: 0.009923
+[2020.07.07-17.24.11:269][318]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_SidsTestMap 1.228
+[2020.07.07-17.24.11:269][318]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-17.24.46:063][426]LogCharacterMovement: Wolf_2 is stuck and failed to move! Velocity: X=52.76 Y=-127.65 Z=0.00 Location: X=-309.76 Y=722.42 Z=110.17 Normal: X=0.26 Y=0.96 Z=-0.00 PenetrationDepth:0.000 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-L-UpperArm (0 other events since notify)
+[2020.07.07-17.25.09:004][478]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-35.54 Y=-68.70 Z=0.00 Location: X=-164.43 Y=320.44 Z=116.04 Normal: X=0.83 Y=-0.34 Z=-0.44 PenetrationDepth:0.290 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck2 (0 other events since notify)
+[2020.07.07-17.26.26:732][127]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-514.38 Y=173.60 Z=0.00 Location: X=-965.50 Y=1747.25 Z=116.02 Normal: X=0.05 Y=1.00 Z=0.00 PenetrationDepth:34.472 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-R-Finger3 (6 other events since notify)
+[2020.07.07-17.26.48:481][ 57]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-34.60 Y=-0.83 Z=0.00 Location: X=-2072.47 Y=2310.15 Z=116.19 Normal: X=-0.95 Y=-0.13 Z=-0.28 PenetrationDepth:20.795 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Head (0 other events since notify)
+[2020.07.07-17.26.54:837][626]LogCharacterMovement: Wolf_2 is stuck and failed to move! Velocity: X=221.13 Y=202.73 Z=0.00 Location: X=-3054.82 Y=2164.29 Z=109.10 Normal: X=-0.51 Y=-0.19 Z=-0.84 PenetrationDepth:0.000 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Tail7 (5 other events since notify)
+[2020.07.07-17.27.17:120][566]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-19.65 Y=-18.81 Z=0.00 Location: X=-2071.02 Y=3086.16 Z=116.19 Normal: X=0.49 Y=0.59 Z=-0.64 PenetrationDepth:2.739 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Head (9 other events since notify)
+[2020.07.07-17.27.18:638][702]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-202.73 Y=-179.24 Z=0.00 Location: X=-2072.12 Y=3089.62 Z=116.07 Normal: X=0.39 Y=0.62 Z=-0.68 PenetrationDepth:2.189 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck1 (11 other events since notify)
+[2020.07.07-17.27.20:139][835]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=119.90 Y=-20.76 Z=0.00 Location: X=-2060.92 Y=3094.42 Z=116.11 Normal: X=0.34 Y=0.49 Z=-0.80 PenetrationDepth:4.270 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck2 (26 other events since notify)
+[2020.07.07-17.27.21:656][961]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=151.41 Y=-100.81 Z=0.00 Location: X=-1816.04 Y=3141.54 Z=116.08 Normal: X=0.42 Y=0.60 Z=-0.69 PenetrationDepth:9.957 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Head (18 other events since notify)
+[2020.07.07-17.27.39:884][584]LogCharacterMovement: VRCharacter_2 is stuck and failed to move! Velocity: X=-11.20 Y=-5.23 Z=0.00 Location: X=-11.69 Y=227.27 Z=118.15 Normal: X=-0.05 Y=-1.00 Z=0.00 PenetrationDepth:30.620 Actor:Griffon_2 Component:CharacterMesh0 BoneName:GRIFFON_-Neck (2 other events since notify)
+[2020.07.07-17.28.43:517][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-17.28.43:597][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.07-17.28.43:657][135]LogSlate: Window 'VR_RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.07-17.28.43:698][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.07-17.28.43:698][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap' with GeneratedClass '/Game/Maps/SidsTestMap.SidsTestMap_C' with ClassGeneratedBy '/Game/Maps/SidsTestMap.SidsTestMap:PersistentLevel.SidsTestMap'
+[2020.07.07-17.28.43:763][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.07.07-17.28.43:778][136]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2020.07.07-17.28.49:876][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.07.07-17.28.49:902][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SidsTestMap" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.07-17.28.49:949][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.07.07-17.28.50:404][732]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/SidsTestMap3B48CCA04FFFB94D429F87BFD75D59A6.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Maps/SidsTestMap.umap'
+[2020.07.07-17.28.50:515][732]LogFileHelpers: Saving map 'SidsTestMap' took 0.614
+[2020.07.07-17.28.50:521][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Barghest" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset" SILENT=true
+[2020.07.07-17.28.50:702][732]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Barghest2C624CE54A27A0DED4178BBC23EF7FE7.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Barghest.uasset'
+[2020.07.07-17.28.50:833][732]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/BARGHEST_SkeletonE5248D6A45BDA4740CC11E838CF50A87.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/QuadrapedCreatures/Barghest/Meshes/BARGHEST_Skeleton.uasset'
+[2020.07.07-17.28.50:846][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Griffon" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset" SILENT=true
+[2020.07.07-17.28.51:005][732]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/GriffonE142DED14C786B3424B04D8949F042CA.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Griffon.uasset'
+[2020.07.07-17.28.51:020][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/Wolf" FILE="../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Wolf.uasset" SILENT=true
+[2020.07.07-17.28.51:226][732]LogSavePackage: Moving '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Saved/Wolf81C061464ED7FA038D9B87A153F8B21F.tmp' to '../../../../../../Users/sidne/Desktop/GameDev/GitHub/VR_RPG/VR_RPG/Content/Blueprints/Enemies/Wolf.uasset'
+[2020.07.07-17.28.54:567][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.07.07-17.28.54:825][ 46]LogSlate: Window 'VR_RPG - Unreal Editor' being destroyed
+[2020.07.07-17.28.55:149][ 47]Cmd: QUIT_EDITOR
+[2020.07.07-17.28.55:974][ 47]LogHMD: SteamVR Shutting down.
+[2020.07.07-17.28.55:981][ 47]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.07-17.28.56:009][ 47]LogExit: Preparing to exit.
+[2020.07.07-17.28.57:134][ 47]LogExit: Editor shut down
+[2020.07.07-17.28.57:134][ 47]LogExit: Transaction tracking system shut down
+[2020.07.07-17.28.57:527][ 47]LogExit: Object subsystem successfully closed.
+[2020.07.07-17.28.57:561][ 47]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.07-17.28.57:566][ 47]LogD3D11RHI: Shutdown
+[2020.07.07-17.28.57:567][ 47]LogD3D11RHI: CleanupD3DDevice
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.07.07-17.28.57:596][ 47]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.07.07-17.28.57:597][ 47]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.07.07-17.28.57:635][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (664)
+[2020.07.07-17.28.57:635][ 47]LogModuleManager: Shutting down and abandoning module Voice (662)
+[2020.07.07-17.28.57:635][ 47]LogModuleManager: Shutting down and abandoning module BlueprintGraph (660)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module PinnedCommandList (658)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module SkeletonEditor (656)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module AnimationEditor (654)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (652)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (650)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module WorldBrowser (648)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (646)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (645)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (642)
+[2020.07.07-17.28.57:636][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (640)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (638)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (636)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (634)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintMode (632)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (630)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (628)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (626)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (624)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module BspMode (622)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (620)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (618)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (616)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module OculusMR (614)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (612)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (610)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (608)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (607)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module MaterialEditor (606)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (602)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (600)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (598)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (596)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (594)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module WebMMedia (592)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (590)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (588)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (587)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (584)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (582)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (580)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (578)
+[2020.07.07-17.28.57:637][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (576)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (574)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (572)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (570)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (568)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (566)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (564)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (562)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (560)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (558)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (556)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (554)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (552)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module ClothPainter (550)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (549)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (546)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (544)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (543)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (540)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (538)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (536)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (534)
+[2020.07.07-17.28.57:638][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (533)
+[2020.07.07-17.28.58:460][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (530)
+[2020.07.07-17.28.58:460][ 47]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (528)
+[2020.07.07-17.28.58:460][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (526)
+[2020.07.07-17.28.58:460][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (524)
+[2020.07.07-17.28.58:460][ 47]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (522)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (520)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (518)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (516)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (515)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (512)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (510)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (508)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (506)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module Blutility (504)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (502)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (501)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (498)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (496)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (494)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (492)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (490)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (488)
+[2020.07.07-17.28.58:461][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (487)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (484)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (482)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module Layers (480)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (478)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (476)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (474)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (472)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module Persona (470)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (469)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (467)
+[2020.07.07-17.28.58:514][ 47]LogModuleManager: Shutting down and abandoning module Kismet (464)
+[2020.07.07-17.28.58:525][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (462)
+[2020.07.07-17.28.58:525][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (460)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (458)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (456)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (454)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (452)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (450)
+[2020.07.07-17.28.58:527][ 47]LogModuleManager: Shutting down and abandoning module Documentation (448)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module LiveCoding (446)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module LevelSequence (444)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (442)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module MovieScene (440)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (438)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module LauncherPlatform (436)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (434)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (432)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (430)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (428)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module AIModule (426)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (425)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (423)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module NavigationSystem (421)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (418)
+[2020.07.07-17.28.58:528][ 47]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (416)
+[2020.07.07-17.28.58:533][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (414)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (412)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module MegascansPlugin (410)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module OculusEditor (402)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (400)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (398)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module EditableMesh (396)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2020.07.07-17.28.58:594][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (390)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (388)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AndroidPermission (386)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (384)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (382)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (374)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (372)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (370)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (336)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (334)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2020.07.07-17.28.58:595][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module SignificanceManager (298)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module ActorSequence (288)
+[2020.07.07-17.28.58:596][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (286)
+[2020.07.07-17.28.58:696][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (284)
+[2020.07.07-17.28.58:797][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (282)
+[2020.07.07-17.28.58:797][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (280)
+[2020.07.07-17.28.58:797][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (278)
+[2020.07.07-17.28.58:797][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (276)
+[2020.07.07-17.28.58:797][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapController (274)
+[2020.07.07-17.28.58:797][ 47]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.07-17.28.58:797][ 47]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAR (272)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module AugmentedReality (271)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (268)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (266)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.07.07-17.28.58:798][ 47]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.07.07-17.28.58:799][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.07.07-17.28.58:799][ 47]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.07.07-17.28.58:799][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.07.07-17.28.58:800][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.07.07-17.28.58:801][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.07.07-17.28.58:803][ 47]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.07.07-17.28.58:804][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.07.07-17.28.58:817][ 47]LogDerivedDataCache: Shutdown
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.07.07-17.28.58:817][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.07.07-17.28.58:818][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.07.07-17.28.58:819][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.07.07-17.28.58:819][ 47]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.07.07-17.28.58:819][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.07.07-17.28.58:820][ 47]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.07.07-17.28.58:820][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.07.07-17.28.58:825][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.07.07-17.28.58:826][ 47]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.07.07-17.28.58:826][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.07.07-17.28.58:827][ 47]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.07.07-17.28.58:827][ 47]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.07.07-17.28.58:838][ 47]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.07.07-17.28.58:838][ 47]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.07-17.28.58:838][ 47]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD20AEC2B-41CA-0DC2-40AA-B88A0FBEB625%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=18a6539b457025f81b469e8963e89513%7C704a564b37ab46a3aa963f532c622966%7Cdf6148f5-937e-4482-be84-31a16ae2b10e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.07.07-17.28.58:858][ 47]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.07.07-17.28.58:861][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.07.07-17.28.58:862][ 47]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.07.07-17.28.58:869][ 47]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.07.07-17.28.58:869][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.07-17.28.58:870][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.07-17.28.58:872][ 47]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.07-17.28.58:886][ 47]LogExit: Exiting.
+[2020.07.07-17.28.58:916][ 47]Log file closed, 07/07/20 13:28:58
