@@ -1,0 +1,12 @@
+﻿Quest Name,Quest Description,Linked Quest ID,Quest ID,Quest Type
+Quest 1,1,-1,0,Reach Destination
+Quest 2,2,-1,1,Chain
+Quest 3,3,3,2,Reach Destination
+Quest 4,4,4,3,Kill Enemy
+Quest 5,5,5,4,Get Item
+Quest 6,6,6,5,Reach Destination
+Quest 7,7,-1,6,Talk to
+Quest 8,8,-1,7,Reach Destination
+Quest 9,9,-1,8,Interact
+Quest 10,10,-1,9,Kill Enemy
+Quest 11,11,-1,10,Get Item

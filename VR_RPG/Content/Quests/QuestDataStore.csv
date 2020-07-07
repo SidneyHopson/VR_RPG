@@ -1,0 +1,7 @@
+"Quest ID,Quest Name,Quest Description,Linked ID"
+"0,Basic Quest,This is a basic quest,-1"
+"1,Simple Chain Quest,This is the chain start,2"
+"2,First Sub Chain,Sub Quest 1,3"
+"3,Second Sub Chain,Sub Quest 2,4"
+"4,Third Sub Chain,Sub Quest 3,5"
+"5,End Chain,Chain Quest Done,-1"
