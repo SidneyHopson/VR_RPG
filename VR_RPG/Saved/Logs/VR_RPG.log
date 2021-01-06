@@ -2000,3 +2000,1297 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.06-04.04.43:656][469]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2021.01.06-04.04.43:656][469]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Developers/Tyler/Collections/' because it could not be accessed. Aborting watch request...
 [2021.01.06-04.04.44:993][473]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.01.06-04.09.31:480][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.01.06-04.09.31:527][324]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Right_Island_Map, Actor: /Game/Maps/Right_Island_Map.Right_Island_Map:PersistentLevel.REINST_Right_Island_Map_C_0
+[2021.01.06-04.09.32:602][324]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Right_Island_Map_Auto51B89B52B4673C1ABCAE025AD31E722F3.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Right_Island_Map_Auto5.umap'
+[2021.01.06-04.09.32:610][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Combined_Map' took 1.169
+[2021.01.06-04.09.32:610][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.169
+[2021.01.06-04.15.02:013][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.16.15:026][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.16.25:877][150]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.16.25:877][150]LogTexture: Display: Building textures: T_Noise1 (AutoDXT, 2048X2048)
+[2021.01.06-04.16.25:877][150]LogTexture: Display: Building textures: T_SmokePuff1 (RGBA16F, 2048X2048)
+[2021.01.06-04.16.25:877][150]LogMaterial: Display: Missing cached shader map for material M_SmokePuff1, compiling. 
+[2021.01.06-04.16.34:268][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.16.34:421][792]LogRenderer: Reallocating scene render targets to support 996x480 Format 26 NumSamples 1 (Frame:33781).
+[2021.01.06-04.16.34:469][793]LogRenderer: Reallocating scene render targets to support 996x512 Format 26 NumSamples 1 (Frame:33783).
+[2021.01.06-04.16.34:518][794]LogRenderer: Reallocating scene render targets to support 996x540 Format 26 NumSamples 1 (Frame:33785).
+[2021.01.06-04.16.34:566][795]LogRenderer: Reallocating scene render targets to support 996x552 Format 26 NumSamples 1 (Frame:33787).
+[2021.01.06-04.16.34:610][796]LogRenderer: Reallocating scene render targets to support 996x580 Format 26 NumSamples 1 (Frame:33789).
+[2021.01.06-04.16.34:655][797]LogRenderer: Reallocating scene render targets to support 996x600 Format 26 NumSamples 1 (Frame:33791).
+[2021.01.06-04.16.34:699][798]LogRenderer: Reallocating scene render targets to support 996x612 Format 26 NumSamples 1 (Frame:33793).
+[2021.01.06-04.16.34:743][799]LogRenderer: Reallocating scene render targets to support 996x620 Format 26 NumSamples 1 (Frame:33795).
+[2021.01.06-04.16.34:788][800]LogRenderer: Reallocating scene render targets to support 996x624 Format 26 NumSamples 1 (Frame:33797).
+[2021.01.06-04.16.37:872][113]LogSlate: Took 0.008365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.06-04.16.38:527][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.16.47:663][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.17.01:206][424]Cmd: DELETE
+[2021.01.06-04.17.01:206][424]Cmd: ACTOR DELETE
+[2021.01.06-04.17.01:220][424]LogEditorActor: Deleted Actor: Emitter
+[2021.01.06-04.17.01:245][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.01.06-04.17.01:245][424]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.01.06-04.17.03:417][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.17.04:296][663]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.17.04:296][663]LogTexture: Display: Building textures: T_NoiseFuzzy (AutoDXT, 2048X2048)
+[2021.01.06-04.17.04:296][663]LogTexture: Display: Building textures: T_SmokePuff2c (RGBA16F, 2048X2048)
+[2021.01.06-04.17.04:296][663]LogMaterial: Display: Missing cached shader map for material M_SmokePuff2c, compiling. 
+[2021.01.06-04.17.15:897][678]Cmd: DELETE
+[2021.01.06-04.17.15:897][678]Cmd: ACTOR DELETE
+[2021.01.06-04.17.15:905][678]LogEditorActor: Deleted Actor: Emitter
+[2021.01.06-04.17.15:929][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.06-04.17.15:929][678]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.01.06-04.17.20:224][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.17.20:629][172]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.17.20:629][172]LogTexture: Display: Building textures: T_SmokeDissolve1a (RGBA16F, 2048X2048)
+[2021.01.06-04.17.20:630][172]LogMaterial: Display: Missing cached shader map for material M_SmokeDissolve1a, compiling. 
+[2021.01.06-04.17.30:578][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.17.59:724][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.17.59:814][892]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack1.P_SmokeStack1
+[2021.01.06-04.17.59:835][892]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2021.01.06-04.18.17:532][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.18.32:211][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.19.03:607][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.19.06:653][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.19.30:768][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.19.51:571][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.19.56:507][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.20.24:870][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.20.32:661][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.20.41:278][103]LogSlate: Window 'P_SmokeStack1' being destroyed
+[2021.01.06-04.20.41:282][103]LogSlate: Window 'P_SmokeStack1' being destroyed
+[2021.01.06-04.20.41:283][103]LogCascade: Quitting Cascade. FXSystem=0x000002352BA9F700
+[2021.01.06-04.20.58:853][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.21.07:672][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.21.08:095][666]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.21.08:095][666]LogTexture: Display: Building textures: T_SmokePuff2a (RGBA16F, 2048X2048)
+[2021.01.06-04.21.08:095][666]LogMaterial: Display: Missing cached shader map for material M_SmokePuff2a, compiling. 
+[2021.01.06-04.21.13:338][ 69]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack1)
+[2021.01.06-04.21.17:901][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.21.44:490][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.21.44:621][ 75]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack2.P_SmokeStack2
+[2021.01.06-04.21.53:791][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.22.02:920][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.22.15:247][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.22.34:764][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.22.52:082][758]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.06-04.23.00:383][433]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.23.00:895][466]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.23.12:868][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.23.31:481][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.23.37:554][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.23.38:948][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.23.46:579][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.23.56:960][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.24.06:115][784]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack1.P_SmokeStack1
+[2021.01.06-04.24.10:740][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.24.30:665][738]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack1)
+[2021.01.06-04.24.31:997][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.24.39:988][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.24.46:439][973]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack1)
+[2021.01.06-04.24.48:900][157]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.24.52:793][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.24.55:148][617]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.24.58:502][866]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack1)
+[2021.01.06-04.25.11:770][898]Cmd: DELETE
+[2021.01.06-04.25.11:770][898]Cmd: ACTOR DELETE
+[2021.01.06-04.25.11:777][898]LogEditorActor: Deleted Actor: Emitter
+[2021.01.06-04.25.11:804][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.06-04.25.11:804][898]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.01.06-04.25.18:030][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.25.26:082][177]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.25.30:790][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.25.46:961][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.25.55:872][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.25.59:503][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.25.59:561][821]LogSlate: Window 'P_SmokeStack1' being destroyed
+[2021.01.06-04.25.59:564][821]LogSlate: Window 'P_SmokeStack1' being destroyed
+[2021.01.06-04.25.59:564][821]LogCascade: Quitting Cascade. FXSystem=0x000002352BC2CB80
+[2021.01.06-04.25.59:739][821]LogCascade: Quitting Cascade. FXSystem=0x00000234D1CDE5C0
+[2021.01.06-04.25.59:782][821]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.01.06-04.26.00:968][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.26.01:084][924]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack2.P_SmokeStack2
+[2021.01.06-04.26.11:730][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.26.30:740][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.26.33:508][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.26.56:490][363]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.06-04.26.58:926][557]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.27.00:146][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.27.26:765][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.27.27:227][775]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.27.27:227][775]LogTexture: Display: Building textures: T_SmokePuff4c (RGBA16F, 2048X2048)
+[2021.01.06-04.27.27:227][775]LogMaterial: Display: Missing cached shader map for material M_SmokePuff4c, compiling. 
+[2021.01.06-04.27.27:261][775]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokePuff4c.P_SmokePuff4c
+[2021.01.06-04.27.41:492][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.27.41:618][700]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.27.41:624][700]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokePuff3.P_SmokePuff3
+[2021.01.06-04.27.52:262][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.27.54:104][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.28.02:582][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.28.21:683][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.28.23:330][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.28.51:575][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.06-04.28.51:591][269]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_0
+[2021.01.06-04.28.51:903][269]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map_Auto68DEF7D254223F7AF992E3AA514E6010F.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Swamp_Map_Auto6.umap'
+[2021.01.06-04.28.51:906][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Combined_Map' took 0.359
+[2021.01.06-04.28.51:906][269]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.359
+[2021.01.06-04.28.51:908][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SmokeBuilder/Particles/P_SmokeStack1] ([1] browsable assets)...
+[2021.01.06-04.28.51:914][269]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack1.P_SmokeStack1]
+[2021.01.06-04.28.51:914][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/SmokeBuilder/Particles/P_SmokeStack1]
+[2021.01.06-04.28.51:946][269]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/P_SmokeStack1_Auto6EB2A94CE4D0E122090DCD3810F9B4616.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/SmokeBuilder/Particles/P_SmokeStack1_Auto6.uasset'
+[2021.01.06-04.28.51:947][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SmokeBuilder/Particles/P_SmokeStack2] ([1] browsable assets)...
+[2021.01.06-04.28.51:951][269]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeStack2.P_SmokeStack2]
+[2021.01.06-04.28.51:951][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/SmokeBuilder/Particles/P_SmokeStack2]
+[2021.01.06-04.28.51:984][269]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/P_SmokeStack2_Auto6DD89F39B4192E73B6B419D88F1FD8FA0.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/SmokeBuilder/Particles/P_SmokeStack2_Auto6.uasset'
+[2021.01.06-04.28.51:985][269]LogFileHelpers: Auto-saving content packages took 0.077
+[2021.01.06-04.29.01:680][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.29.01:770][299]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokePuff2c)
+[2021.01.06-04.29.10:027][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.29.14:606][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.29.31:697][644]LogParticles: Warning: MaxCount = 1503 for Emitter ParticleSpriteEmitter_0 (/Game/SmokeBuilder/Particles/P_SmokePuff3.P_SmokePuff3)
+[2021.01.06-04.29.37:449][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.29.39:222][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.30.27:571][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.30.34:450][162]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.34:450][162]LogEditorTransaction: Undo Move Actors
+[2021.01.06-04.30.34:933][188]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.34:933][188]LogEditorTransaction: Undo Move Actors
+[2021.01.06-04.30.35:309][209]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.35:309][209]LogEditorTransaction: Undo Move Actors
+[2021.01.06-04.30.35:882][246]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.35:882][246]LogEditorTransaction: Undo Edit Max
+[2021.01.06-04.30.37:295][338]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.37:295][338]LogEditorTransaction: Undo Edit Min
+[2021.01.06-04.30.38:055][383]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.38:055][383]LogEditorTransaction: Undo Edit Max
+[2021.01.06-04.30.38:938][454]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.38:938][454]LogEditorTransaction: Undo Edit Min
+[2021.01.06-04.30.39:229][472]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.39:229][472]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.06-04.30.39:640][499]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.39:640][499]LogEditorTransaction: Undo Move Actors
+[2021.01.06-04.30.40:326][548]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.40:326][548]LogEditorTransaction: Undo Move Actors
+[2021.01.06-04.30.41:063][597]Cmd: TRANSACTION UNDO
+[2021.01.06-04.30.41:063][597]LogEditorTransaction: Undo Set Scale
+[2021.01.06-04.30.55:663][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.30.56:097][602]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.30.56:097][602]LogTexture: Display: Building textures: T_SmokeRibbons1c (RGBA16F, 2048X2048)
+[2021.01.06-04.30.56:097][602]LogMaterial: Display: Missing cached shader map for material M_SmokeRibbons1c, compiling. 
+[2021.01.06-04.30.56:143][602]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeRibbons1c.P_SmokeRibbons1c
+[2021.01.06-04.31.27:579][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.31.28:095][551]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2021.01.06-04.31.28:095][551]LogTexture: Display: Building textures: T_SmokeWisp9 (RGBA16F, 2048X2048)
+[2021.01.06-04.31.28:095][551]LogTexture: Display: Building textures: T_SmokePuff1b (RGBA16F, 2048X2048)
+[2021.01.06-04.31.28:095][551]LogMaterial: Display: Missing cached shader map for material M_SmokeWisp9, compiling. 
+[2021.01.06-04.31.28:122][551]LogMaterial: Display: Missing cached shader map for material M_SmokeWisp9, compiling. 
+[2021.01.06-04.31.28:158][551]LogMaterial: Display: Missing cached shader map for material M_SmokePuff1b, compiling. 
+[2021.01.06-04.31.28:209][551]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/SmokeBuilder/Particles/P_SmokeyFire1.P_SmokeyFire1
+[2021.01.06-04.31.39:403][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.31.45:636][595]Cmd: DELETE
+[2021.01.06-04.31.45:636][595]Cmd: ACTOR DELETE
+[2021.01.06-04.31.45:641][595]LogEditorActor: Deleted Actor: Emitter
+[2021.01.06-04.31.45:663][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.01.06-04.31.45:664][595]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.01.06-04.31.47:300][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.31.50:432][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.31.53:555][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.32.17:084][457]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.32.30:409][726]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.32.32:977][962]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-04.32.33:441][  4]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.35:237][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.32.52:243][754]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.52:982][826]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.53:933][919]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.55:292][ 56]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.56:284][149]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.58:599][351]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.32.59:155][395]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-04.33.00:517][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.33.21:525][491]LogEditorViewport: Clicking on Actor (LMB): ProceduralFoliageVolume (ProceduralFoliageVolume8)
+[2021.01.06-04.33.29:403][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.33.29:449][  9]LogSlate: Window 'P_SmokeyFire1' being destroyed
+[2021.01.06-04.33.29:453][  9]LogSlate: Window 'P_SmokeyFire1' being destroyed
+[2021.01.06-04.33.29:453][  9]LogCascade: Quitting Cascade. FXSystem=0x000002349FC95240
+[2021.01.06-04.33.29:599][  9]LogCascade: Quitting Cascade. FXSystem=0x00000234AAAC9FC0
+[2021.01.06-04.33.29:633][  9]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.01.06-04.33.29:720][  9]LogCascade: Quitting Cascade. FXSystem=0x0000023520255B40
+[2021.01.06-04.33.29:784][  9]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.01.06-04.33.29:868][  9]LogCascade: Quitting Cascade. FXSystem=0x00000235415916C0
+[2021.01.06-04.33.29:930][  9]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.01.06-04.33.30:008][  9]LogCascade: Quitting Cascade. FXSystem=0x00000235435D3700
+[2021.01.06-04.33.30:071][  9]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2021.01.06-04.33.41:428][260]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.01.06-04.38.52:355][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.06-04.38.52:371][464]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_1
+[2021.01.06-04.38.52:672][464]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map_Auto752EDF7FC479E2725FF2920B94DFCFB8E.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Swamp_Map_Auto7.umap'
+[2021.01.06-04.38.52:675][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Combined_Map' took 0.350
+[2021.01.06-04.38.52:675][464]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2021.01.06-04.44.28:260][465]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.06-04.44.34:311][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.44.44:388][751]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.01.06-04.44.44:492][752]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.01.06-04.44.44:620][753]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.01.06-04.44.44:702][754]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.01.06-04.44.44:839][756]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2021.01.06-04.44.58:485][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/Fog1_Texture" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/Fog1_Texture.uasset" SILENT=true
+[2021.01.06-04.44.58:508][644]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Fog1_TextureC610344F4F2965337A8203B1188B0485.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/Fog1_Texture.uasset'
+[2021.01.06-04.44.58:543][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/VolumetricFog1" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/VolumetricFog1.uasset" SILENT=true
+[2021.01.06-04.44.58:569][644]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VolumetricFog170902D2B44F51A499CA2E5A0381754EF.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/VolumetricFog1.uasset'
+[2021.01.06-04.44.58:591][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/VolumetricFog1_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/VolumetricFog1_Inst.uasset" SILENT=true
+[2021.01.06-04.44.58:615][644]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VolumetricFog1_Inst9DE32CF64C36224AAAB2AEB2654D1724.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/VolumetricFog1_Inst.uasset'
+[2021.01.06-04.44.58:630][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/Fog1" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/Fog1.uasset" SILENT=true
+[2021.01.06-04.44.58:650][644]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Fog1958C39B94C49994A02F7928A96FED242.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/Fog1.uasset'
+[2021.01.06-04.44.59:334][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.01.06-04.44.59:363][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.01.06-04.44.59:396][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.01.06-04.44.59:424][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.01.06-04.44.59:462][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.01.06-04.44.59:492][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.01.06-04.44.59:526][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRCharacter" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Blueprints/VRCharacter.uasset" SILENT=true
+[2021.01.06-04.45.00:122][644]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VRCharacter9E3E2BEF4EB92E55177FCAA2FDF0636A.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Blueprints/VRCharacter.uasset'
+[2021.01.06-04.45.16:817][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerFog/Fog1_Texture" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/Fog1_Texture.uasset" SILENT=true
+[2021.01.06-04.45.16:837][710]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Fog1_Texture859CB6974D49653A2CC5CD8405D933FF.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/Fog1_Texture.uasset'
+[2021.01.06-04.45.16:861][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerFog/VolumetricFog1" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/VolumetricFog1.uasset" SILENT=true
+[2021.01.06-04.45.16:884][710]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VolumetricFog11C4890CA476E9F3862EB57968CC0429D.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/VolumetricFog1.uasset'
+[2021.01.06-04.45.16:905][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerFog/VolumetricFog1_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/VolumetricFog1_Inst.uasset" SILENT=true
+[2021.01.06-04.45.16:924][710]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VolumetricFog1_Inst332A12CB46FBEC59ADC5A3ACAFB42818.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/VolumetricFog1_Inst.uasset'
+[2021.01.06-04.45.16:934][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerFog/Fog1" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/Fog1.uasset" SILENT=true
+[2021.01.06-04.45.16:950][710]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Fog150701E4143540C1189F83BB34E1C3ACC.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerFog/Fog1.uasset'
+[2021.01.06-04.45.17:497][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.06-04.45.17:527][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.01.06-04.45.17:560][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.01.06-04.45.17:588][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.01.06-04.45.17:622][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.06-04.45.17:649][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.06-04.45.17:677][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRCharacter" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Blueprints/VRCharacter.uasset" SILENT=true
+[2021.01.06-04.45.18:135][710]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/VRCharacterBD0404884DC00021A0788F839B220F82.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Blueprints/VRCharacter.uasset'
+[2021.01.06-04.45.33:633][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset" SILENT=true
+[2021.01.06-04.45.33:649][311]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lavaDB50652F42A24FE56EF48985F71BD3BD.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset'
+[2021.01.06-04.45.33:797][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.06-04.45.33:825][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.06-04.45.33:850][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.06-04.45.34:857][396]LogAssetEditorManager: Opening Asset editor for Material /Game/TylerLava/lava.lava
+[2021.01.06-04.45.34:862][396]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.45.35:139][396]LogMaterial: Display: Missing cached shader map for material M_SkyBox, compiling. 
+[2021.01.06-04.45.35:168][396]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2021.01.06-04.45.35:385][396]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.45.35:406][396]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.45.35:578][396]LogSlate: Took 0.010935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.06-04.45.36:965][463]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.45.39:835][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.45.43:344][750]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.01.06-04.45.43:344][750]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 236 instructions
+[2021.01.06-04.45.43:344][750]MaterialEditorStats: Base pass vertex shader: 103 instructions
+[2021.01.06-04.45.43:344][750]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.06-04.46.02:298][676]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.02:330][677]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.03:167][737]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.46.06:148][955]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.06:159][955]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.06:166][955]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.06:958][999]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.46.06:958][999]MaterialEditorStats: Base pass vertex shader: 103 instructions
+[2021.01.06-04.46.06:958][999]MaterialEditorStats: Texture samplers: 0/16
+[2021.01.06-04.46.22:628][661]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.23:934][771]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.23:946][771]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.23:959][771]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.23:995][772]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.25:674][875]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.46.28:581][951]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.46.28:581][951]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.46.28:581][951]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.46.38:975][590]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.39:018][591]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.40:405][671]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.46.43:073][833]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.46.43:073][833]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.46.43:073][833]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.46.45:079][994]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.45:091][994]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.45:114][995]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.46:465][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.46.48:917][210]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.46.48:917][210]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.46.48:917][210]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.46.49:972][291]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.49:996][291]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.50:801][345]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.46.50:982][354]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.46.52:976][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.46.55:840][636]MaterialEditorStats: Base pass shader without light map: 159 instructions
+[2021.01.06-04.46.55:840][636]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.46.55:840][636]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.46.55:840][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.47.05:212][348]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.05:224][348]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.05:247][349]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.47.06:833][441]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.47.09:369][586]MaterialEditorStats: Base pass shader without light map: 161 instructions
+[2021.01.06-04.47.09:369][586]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.47.09:369][586]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.47.09:369][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.47.09:924][628]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.09:945][629]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.47.11:168][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.47.13:541][834]MaterialEditorStats: Base pass shader without light map: 161 instructions
+[2021.01.06-04.47.13:541][834]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.47.13:541][834]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.47.13:541][834]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.47.25:917][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.47.28:166][993]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.28:203][994]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.47.30:028][103]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.47.32:860][274]MaterialEditorStats: Base pass shader without light map: 161 instructions
+[2021.01.06-04.47.32:861][274]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.47.32:861][274]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.47.32:861][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.47.48:296][486]LogEditorTransaction: Undo Material Editor: Create comment
+[2021.01.06-04.47.48:300][486]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.48:315][486]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.48:328][486]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.47.50:027][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.47.53:806][848]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.47.53:843][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.47.55:307][934]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.47.58:444][ 61]MaterialEditorStats: Base pass shader without light map: 161 instructions
+[2021.01.06-04.47.58:444][ 61]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.47.58:444][ 61]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.47.58:444][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.48.17:812][764]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.17:824][764]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.17:846][765]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.19:561][868]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.19:675][874]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.20:120][904]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.20:575][931]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.22:213][ 36]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.22:218][ 36]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.22:483][ 48]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.24:313][160]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.26:786][299]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2021.01.06-04.48.26:786][299]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.48.26:786][299]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.48.34:903][940]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.34:947][941]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.36:325][ 26]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.36:719][ 50]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.36:793][ 51]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2021.01.06-04.48.37:823][106]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.38:573][147]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.39:260][184]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.40:206][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.43:351][513]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.43:396][514]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.45:099][610]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.48:053][698]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.48.48:053][698]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.48.48:053][698]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.48.51:675][866]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.51:688][866]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.51:710][867]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.52:883][937]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.53:438][967]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.53:571][975]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.54:403][ 31]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.48.56:490][178]MaterialEditorStats: Base pass shader without light map: 71 instructions
+[2021.01.06-04.48.56:490][178]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.48.56:490][178]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.48.57:998][312]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.48.58:020][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.48.59:616][406]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.01:218][500]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.01:829][535]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.03:526][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.05:606][748]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.49.05:607][748]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.49.05:607][748]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.49.05:607][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.49.25:463][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.49.30:566][448]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.30:579][448]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.30:615][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.32:442][557]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.34:679][682]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.34:722][683]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.36:494][783]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.38:907][923]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.49.38:907][923]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.49.38:907][923]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.49.38:907][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.49.39:994][998]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.40:016][998]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.40:774][ 49]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.41:062][ 64]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.42:649][153]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.44:914][285]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.49.44:914][285]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.49.44:914][285]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.49.44:914][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.49.45:170][306]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.45:182][306]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.45:203][307]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.46:551][386]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.48:070][472]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.48:725][499]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.49:361][529]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.49:393][529]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.49.49:620][539]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.49.51:795][664]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.49.54:248][807]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.49.54:248][807]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.49.54:248][807]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.49.54:248][807]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.50.40:673][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.06-04.50.40:693][501]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Right_Island_Map, Actor: /Game/Maps/Right_Island_Map.Right_Island_Map:PersistentLevel.REINST_Right_Island_Map_C_0
+[2021.01.06-04.50.41:760][501]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Right_Island_Map_Auto858CFF83244095961A3904E8EE7D4AB75.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Right_Island_Map_Auto8.umap'
+[2021.01.06-04.50.41:783][501]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_2
+[2021.01.06-04.50.42:136][501]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map_Auto817C733844210F735EC986DA5F20F707C.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Swamp_Map_Auto8.umap'
+[2021.01.06-04.50.42:139][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Combined_Map' took 1.491
+[2021.01.06-04.50.42:140][501]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.491
+[2021.01.06-04.51.06:108][648]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.06:148][649]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.08:380][781]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.08:991][821]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.09:104][826]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.10:874][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.14:073][104]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.51.14:074][104]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.51.14:074][104]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.51.14:074][104]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.01.06-04.51.21:412][715]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.21:452][716]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.22:982][806]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.24:822][932]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.24:832][932]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.26:256][ 12]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.28:332][148]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.28:356][149]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.29:704][224]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.32:285][368]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.51.32:285][368]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.51.32:285][368]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.51.32:285][368]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.51.46:749][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.51.52:394][933]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.51.52:434][934]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.51.54:249][ 40]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.51.59:906][569]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.51.59:906][569]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.51.59:906][569]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.51.59:906][569]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.52.14:861][628]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.14:873][628]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.14:922][629]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.16:405][721]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.52.19:097][875]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.52.19:097][875]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.52.19:097][875]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.52.19:097][875]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.52.20:566][990]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.20:606][991]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.21:756][ 60]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.52.24:065][207]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.24:075][207]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.26:076][326]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.52.28:917][491]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.52.28:917][491]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.52.28:917][491]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.52.28:917][491]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.52.30:580][618]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.30:591][618]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.30:614][619]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.30:929][638]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.30:947][638]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.31:289][656]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.32:659][734]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.32:679][734]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.32:890][745]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.34:465][835]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.52.38:993][ 29]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.52.38:993][ 29]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.52.38:993][ 29]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.52.38:993][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.52.45:767][187]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.52.45:805][188]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.52.47:204][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.52.51:048][407]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.52.51:048][407]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.52.51:048][407]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.52.51:048][407]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.52.59:983][501]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.00:028][502]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.01:332][578]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.02:630][658]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.02:661][659]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.04:568][775]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.06:664][912]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.53.06:664][912]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.53.06:664][912]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.53.06:664][912]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.53.10:128][183]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.10:171][184]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.11:333][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.14:561][460]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.14:586][461]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.16:479][572]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.19:131][723]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.53.19:132][723]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.53.19:132][723]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.53.19:132][723]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.53.27:114][359]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.27:141][360]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.29:194][481]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.29:726][511]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.29:866][516]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.31:962][632]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.34:748][784]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.53.34:748][784]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.53.34:748][784]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.53.34:748][784]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.53.36:402][920]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.36:427][921]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.37:847][995]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.39:241][ 71]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.39:258][ 71]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.39:993][107]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.42:003][218]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.42:177][227]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.42:396][239]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.43:977][332]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.53.56:595][465]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.56:606][465]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.56:609][465]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.53.57:394][508]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.53.59:849][643]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.54.02:268][791]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.54.02:294][792]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.54.03:491][858]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.54.05:941][988]MaterialEditorStats: Base pass shader without light map: 185 instructions
+[2021.01.06-04.54.05:941][988]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.54.05:941][988]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.54.05:941][988]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.54.10:057][295]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.54.10:082][296]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.54.12:114][407]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.06-04.54.14:586][534]MaterialEditorStats: Base pass shader without light map: 186 instructions
+[2021.01.06-04.54.14:586][534]MaterialEditorStats: Base pass vertex shader: 48 instructions
+[2021.01.06-04.54.14:586][534]MaterialEditorStats: Texture samplers: 1/16
+[2021.01.06-04.54.14:586][534]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2021.01.06-04.54.25:184][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.54.25:259][284]LogMaterialEditor: Saving and Compiling material lava
+[2021.01.06-04.54.27:595][284]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.54.27:629][284]LogShaderCompilers: Display: Shaders left to compile 20
+[2021.01.06-04.54.27:639][284]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.54.27:661][284]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-04.54.27:712][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.01.06-04.54.27:729][284]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.06-04.54.29:767][284]LogShaderCompilers: Display: Shaders left to compile 40
+[2021.01.06-04.54.29:767][284]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.01.06-04.54.29:770][284]TextureStreamingBuild: Display: Compiling optional shaders took 2.052 seconds.
+[2021.01.06-04.54.29:796][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.01.06-04.54.32:691][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset" SILENT=true
+[2021.01.06-04.54.32:727][284]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava4BD44B8C4235744F93F5A8B5B848B2A4.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset'
+[2021.01.06-04.54.38:203][678]LogSlate: Window 'lava' being destroyed
+[2021.01.06-04.54.38:209][678]LogSlate: Window 'lava' being destroyed
+[2021.01.06-04.54.46:362][502]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst
+[2021.01.06-04.54.46:550][502]LogRenderer: Reallocating scene render targets to support 1320x920 Format 26 NumSamples 1 (Frame:1).
+[2021.01.06-04.54.51:527][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.55.10:555][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.55.12:670][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset" SILENT=true
+[2021.01.06-04.55.12:701][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.01.06-04.55.12:707][689]TextureStreamingBuild: Display: Compiling optional shaders took 0.006 seconds.
+[2021.01.06-04.55.12:730][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.06-04.55.12:750][689]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava_Inst2F11469F4B4DE8F33CD382ACC35FDC7C.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset'
+[2021.01.06-04.55.19:305][862]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-04.55.19:309][862]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-04.55.22:515][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.55.30:645][952]LogActorFactory: Actor Factory created Sphere
+[2021.01.06-04.55.31:466][ 24]LogActorFactory: Actor Factory created Sphere
+[2021.01.06-04.55.36:620][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.55.58:557][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.55.58:701][629]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst
+[2021.01.06-04.56.03:578][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset" SILENT=true
+[2021.01.06-04.56.03:607][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.06-04.56.03:614][  4]TextureStreamingBuild: Display: Compiling optional shaders took 0.006 seconds.
+[2021.01.06-04.56.03:638][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.01.06-04.56.03:670][  4]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava_Inst2FF6E762455B23D0DACC419C0708F62D.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset'
+[2021.01.06-04.56.04:617][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.56.33:307][837]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.06-04.56.43:842][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.56.47:920][152]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-04.56.47:924][152]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-04.56.47:955][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.06-04.56.47:958][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.56.47:972][152]TextureStreamingBuild: Display: Compiling optional shaders took 0.006 seconds.
+[2021.01.06-04.56.47:995][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.01.06-04.56.59:282][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.01.06-04.57.07:300][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.01.06-04.57.08:821][811]Cmd: DELETE
+[2021.01.06-04.57.08:821][811]Cmd: ACTOR DELETE
+[2021.01.06-04.57.08:839][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.06-04.57.08:865][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.01.06-04.57.08:865][811]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.01.06-04.57.32:999][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.57.58:435][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.58.04:364][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-04.58.35:571][696]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N'
+[2021.01.06-04.58.35:571][696]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N' while loading NULL.
+[2021.01.06-04.58.35:572][696]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N'
+[2021.01.06-04.58.35:572][696]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N' while loading NULL.
+[2021.01.06-04.58.35:576][696]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N'
+[2021.01.06-04.58.35:576][696]LoadErrors: Failed to load /Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N.T_GDC_Tiling_LeafpathStones_N Referenced by T_GDC_Tiling_LeafPathStones_D_R
+[2021.01.06-04.58.35:576][696]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/GroundTiles/LeafyPath/T_GDC_Tiling_LeafpathStones_N' while loading NULL.
+[2021.01.06-04.58.35:581][696]LogStaticMesh: Building static mesh DirtPath...
+[2021.01.06-04.58.35:597][696]LogStaticMesh: Built static mesh [0.02s] /Game/Paths/DirtPath.DirtPath
+[2021.01.06-04.58.35:842][696]LogTexture: Display: Building textures: T_GDC_TilingRocks_01_DispMask (AutoDXT, 1024X1024)
+[2021.01.06-04.58.35:842][696]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2021.01.06-04.58.45:411][696]LogTexture: Display: Building textures: T_GDC_Tiling_LeafPathStones_D_R (AutoDXT, 4096X4096)
+[2021.01.06-04.58.45:411][696]LogTexture: Display: Building textures: T_GDC_Tiling_LeafpathStones_N (BC5, 4096X4096)
+[2021.01.06-04.58.45:411][696]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2021.01.06-04.58.45:560][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-04.58.45:563][696]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Paths/DirtPath.DirtPath
+[2021.01.06-04.58.46:143][696]LogRenderer: Reallocating scene render targets to support 1432x920 Format 26 NumSamples 1 (Frame:1).
+[2021.01.06-05.00.39:717][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.00.45:349][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.00.45:423][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.06-05.00.45:440][934]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_2
+[2021.01.06-05.00.45:803][934]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map_Auto9FDA9E41D42BA3BDABA989BAF9D785F00.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Maps/Swamp_Map_Auto9.umap'
+[2021.01.06-05.00.45:806][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Combined_Map' took 0.409
+[2021.01.06-05.00.45:806][934]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.409
+[2021.01.06-05.00.45:808][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TylerLava/lava_Inst] ([1] browsable assets)...
+[2021.01.06-05.00.45:820][934]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst]
+[2021.01.06-05.00.45:820][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/TylerLava/lava_Inst]
+[2021.01.06-05.00.45:846][934]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava_Inst_Auto988DE6AA44B56A8FD90B4C38ADE83918D.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/TylerLava/lava_Inst_Auto9.uasset'
+[2021.01.06-05.00.45:847][934]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Paths/DirtPath] ([1] browsable assets)...
+[2021.01.06-05.00.45:858][934]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Paths/DirtPath.DirtPath]
+[2021.01.06-05.00.45:858][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/Paths/DirtPath]
+[2021.01.06-05.00.45:858][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paths/DirtPath" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Paths/DirtPath_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.01.06-05.00.45:891][934]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/DirtPath_Auto936649E844C9342723989A8966D2D24A5.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Autosaves/Game/Paths/DirtPath_Auto9.uasset'
+[2021.01.06-05.00.45:893][934]LogFileHelpers: Auto-saving content packages took 0.085
+[2021.01.06-05.00.46:656][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.00.59:830][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.00.59:893][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paths/DirtPath" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/DirtPath.uasset" SILENT=true
+[2021.01.06-05.00.59:916][ 64]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/DirtPathD54AB11245BD5C6020692892804E2317.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/DirtPath.uasset'
+[2021.01.06-05.01.07:647][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.01.07:695][724]LogSlate: Window 'DirtPath' being destroyed
+[2021.01.06-05.01.07:699][724]LogSlate: Window 'DirtPath' being destroyed
+[2021.01.06-05.01.10:235][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.01.10:486][980]LogMaterial: Warning: Material /Game/TylerLava/lava.lava needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.01.10:488][980]LogMaterial: Display: Missing cached shader map for material lava, compiling. 
+[2021.01.06-05.01.19:933][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.01.25:045][140]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2021.01.06-05.01.26:683][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.01.31:930][810]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Paths/SplineMesh.SplineMesh
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::BP_DemoDisplay_MAX' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:275][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::BP_DemoRoom_MAX' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:276][810]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/SmokeBuilder/DemoRoom/BluePrints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/Spawn_System/Maps/DemoRoom/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2021.01.06-05.01.32:303][810]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2021.01.06-05.01.33:210][810]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2021.01.06-05.01.46:447][649]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.01.46:450][649]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.01.47:977][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.02.00:353][941]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-05.02.00:806][982]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-05.02.01:358][ 34]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeStack2)
+[2021.01.06-05.02.06:391][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.02.13:265][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.02.18:720][708]LogEditorViewport: Clicking on Actor (LMB): SplineMesh_C (SplineMesh)
+[2021.01.06-05.02.25:634][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.02.35:306][208]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Paths/SplineMesh.SplineMesh
+[2021.01.06-05.02.48:567][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.02.49:884][361]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.01.06-05.02.50:538][421]LogEditorViewport: Clicking on Actor (LMB): SplineMesh_C (SplineMesh)
+[2021.01.06-05.03.05:040][737]LogEditorViewport: Clicking on Actor (LMB): SplineMesh_C (SplineMesh)
+[2021.01.06-05.03.05:930][820]Cmd: DELETE
+[2021.01.06-05.03.05:930][820]Cmd: ACTOR DELETE
+[2021.01.06-05.03.05:940][820]LogEditorActor: Deleted Actor: SplineMesh_C
+[2021.01.06-05.03.05:989][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.01.06-05.03.05:989][820]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.01.06-05.03.06:937][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.03.24:383][571]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-05.03.24:882][614]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-05.03.25:365][660]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-05.03.25:980][718]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SmokeyFire1)
+[2021.01.06-05.03.26:370][754]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2021.01.06-05.03.27:361][853]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystemComponent0)
+[2021.01.06-05.03.28:647][965]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.28:647][965]LogEditorTransaction: Undo Clicking on Components
+[2021.01.06-05.03.28:975][989]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.28:975][989]LogEditorTransaction: Undo Clicking on Components
+[2021.01.06-05.03.29:285][ 12]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.29:285][ 12]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.06-05.03.31:197][169]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.31:197][169]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.06-05.03.31:881][224]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.31:881][224]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.06-05.03.33:152][327]Cmd: TRANSACTION UNDO
+[2021.01.06-05.03.33:152][327]LogEditorTransaction: Undo Clicking on Actors
+[2021.01.06-05.03.37:291][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.03.41:633][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.03.52:337][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.03.52:479][981]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Paths/DirtPath.DirtPath
+[2021.01.06-05.04.00:902][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.04.01:049][603]LogActorFactory: Actor Factory created DirtPath
+[2021.01.06-05.04.01:989][696]LogActorFactory: Actor Factory created DirtPath
+[2021.01.06-05.04.15:317][799]Cmd: DELETE
+[2021.01.06-05.04.15:317][799]Cmd: ACTOR DELETE
+[2021.01.06-05.04.15:324][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.06-05.04.15:366][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.06-05.04.15:367][799]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2021.01.06-05.04.16:041][861]LogEditorViewport: Clicking on Actor (LMB): SplineMesh_C (SplineMesh)
+[2021.01.06-05.04.49:315][637]Cmd: TRANSACTION UNDO
+[2021.01.06-05.04.49:316][637]LogEditorTransaction: Undo Move Actors
+[2021.01.06-05.04.49:742][650]Cmd: TRANSACTION UNDO
+[2021.01.06-05.04.49:742][650]LogEditorTransaction: Undo Move Actors
+[2021.01.06-05.04.50:207][676]Cmd: TRANSACTION UNDO
+[2021.01.06-05.04.50:207][676]LogEditorTransaction: Undo Move Actors
+[2021.01.06-05.04.52:023][810]Cmd: DELETE
+[2021.01.06-05.04.52:023][810]Cmd: ACTOR DELETE
+[2021.01.06-05.04.52:033][810]LogEditorActor: Deleted Actor: SplineMesh_C
+[2021.01.06-05.04.52:071][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.06-05.04.52:071][810]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.01.06-05.04.53:160][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.05.02:233][717]LogTexture: Display: Building textures: T_Dirt01_MSK (AutoDXT, 1024X1024)
+[2021.01.06-05.05.02:233][717]LogTexture: Display: Building textures: T_Puddle01_MSK (DXT1, 2048X2048)
+[2021.01.06-05.05.02:233][717]LogMaterial: Display: Missing cached shader map for material M_Puddle01, compiling. 
+[2021.01.06-05.05.02:289][717]LogStaticMesh: Building static mesh DirtPath...
+[2021.01.06-05.05.02:300][717]LogStaticMesh: Built static mesh [0.01s] /Game/Paths/DirtPath.DirtPath
+[2021.01.06-05.05.02:308][717]LogMaterial: Warning: Material /Game/FantasyVillage/Materials/M_Puddle01.M_Puddle01 needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.05.02:311][717]LogMaterial: Display: Missing cached shader map for material M_Puddle01, compiling. 
+[2021.01.06-05.05.03:361][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.05.45:383][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.05.50:136][880]LogTexture: Display: Building textures: T_FieldGrass_01_D (AutoDXT, 1024X1024)
+[2021.01.06-05.05.50:136][880]LogTexture: Display: Building textures: T_FieldGrass_02_M (AutoDXT, 1024X1024)
+[2021.01.06-05.05.50:137][880]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.01.06-05.05.50:177][880]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.01.06-05.05.50:228][880]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.M_FieldGrass_01 needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.05.50:233][880]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.01.06-05.05.50:328][880]LogMaterial: Display: Missing cached shader map for material M_FieldGrass_01, compiling. 
+[2021.01.06-05.05.52:839][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.05.56:722][ 89]LogTexture: Display: Building textures: T_SwirlNoise (G8, 512X512)
+[2021.01.06-05.05.56:722][ 89]LogTexture: Display: Building textures: T_FieldScabious01_M (AutoDXT, 2048X2048)
+[2021.01.06-05.05.56:722][ 89]LogTexture: Display: Building textures: T_FieldScabious01_N (BC5, 2048X2048)
+[2021.01.06-05.05.56:722][ 89]LogTexture: Display: Building textures: T_FieldScabious01_D (AutoDXT, 2048X2048)
+[2021.01.06-05.05.56:722][ 89]LogShaderCompilers: Display: Shaders left to compile 530
+[2021.01.06-05.05.56:722][ 89]LogMaterial: Display: Missing cached shader map for material M_FieldScabious_01, compiling. 
+[2021.01.06-05.05.56:800][ 89]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01.M_FieldScabious_01 needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.05.56:805][ 89]LogMaterial: Display: Missing cached shader map for material M_FieldScabious_01, compiling. 
+[2021.01.06-05.05.58:236][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.06.04:555][573]LogTexture: Display: Building textures: T_Caustics (AutoDXT, 1024X1024)
+[2021.01.06-05.06.04:555][573]LogTexture: Display: Building textures: T_Sand (AutoDXT, 1024X1024)
+[2021.01.06-05.06.04:555][573]LogTexture: Display: Building textures: T_Sand_N (BC5, 1024X1024)
+[2021.01.06-05.06.04:555][573]LogMaterial: Display: Missing cached shader map for material M_Sand, compiling. 
+[2021.01.06-05.06.04:580][573]LogMaterial: Warning: Material /Game/WaterMaterials/Materials/M_Sand.M_Sand needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.06.04:585][573]LogMaterial: Display: Missing cached shader map for material M_Sand, compiling. 
+[2021.01.06-05.06.10:530][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.06.12:053][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.06.35:790][432]Cmd: DELETE
+[2021.01.06-05.06.35:790][432]Cmd: ACTOR DELETE
+[2021.01.06-05.06.35:805][432]LogEditorActor: Deleted Actor: SplineMesh_C
+[2021.01.06-05.06.35:852][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.01.06-05.06.35:853][432]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2021.01.06-05.06.37:957][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.07.33:664][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.07.37:865][445]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2021.01.06-05.07.37:892][445]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Rock_Sandstone.M_Rock_Sandstone needed to have new flag set bUsedWithSplineMeshes !
+[2021.01.06-05.07.37:896][445]LogMaterial: Display: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2021.01.06-05.07.48:600][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.07.50:263][168]LogSlate: Window 'Preview Scene Settings' being destroyed
+[2021.01.06-05.07.50:271][168]LogSlate: Window 'Preview Scene Settings' being destroyed
+[2021.01.06-05.08.07:515][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.08.12:838][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.08.12:876][284]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.08.12:881][284]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.08.15:700][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.08.28:066][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.08.48:014][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.08.48:221][  1]LogActorFactory: Actor Factory created Cylinder
+[2021.01.06-05.08.49:368][ 82]LogActorFactory: Actor Factory created Cylinder
+[2021.01.06-05.08.54:677][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.09.30:785][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.00:561][340]Cmd: DELETE
+[2021.01.06-05.10.00:561][340]Cmd: ACTOR DELETE
+[2021.01.06-05.10.00:571][340]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.06-05.10.00:614][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.01.06-05.10.00:615][340]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2021.01.06-05.10.02:317][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.02:456][468]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst
+[2021.01.06-05.10.09:560][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.21:184][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.34:099][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.50:082][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.10.52:755][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.11.01:060][537]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Paths/SplineMesh.SplineMesh
+[2021.01.06-05.11.09:089][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.11.19:000][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.11.57:178][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.12.12:032][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.12.39:061][ 27]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.12.39:065][ 27]LogSlate: Window 'SplineMesh' being destroyed
+[2021.01.06-05.12.39:103][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.01.06-05.12.39:107][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.12.39:115][ 27]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.06-05.12.39:551][ 27]TextureStreamingBuild: Display: Compiling optional shaders took 0.440 seconds.
+[2021.01.06-05.12.39:588][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.06-05.12.41:235][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.12.50:276][ 53]Cmd: DELETE
+[2021.01.06-05.12.50:276][ 53]Cmd: ACTOR DELETE
+[2021.01.06-05.12.50:283][ 53]LogEditorActor: Deleted Actor: SplineMesh_C
+[2021.01.06-05.12.50:320][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.01.06-05.12.50:321][ 53]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.01.06-05.12.54:602][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.05:531][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.06:805][754]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst
+[2021.01.06-05.13.12:793][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.12:828][277]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-05.13.12:831][277]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-05.13.12:866][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.01.06-05.13.12:870][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.13.12:879][277]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.06-05.13.13:332][277]TextureStreamingBuild: Display: Compiling optional shaders took 0.459 seconds.
+[2021.01.06-05.13.13:369][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.06-05.13.15:298][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.15:644][491]LogActorFactory: Actor Factory created Cone
+[2021.01.06-05.13.16:520][562]LogActorFactory: Actor Factory created Cone
+[2021.01.06-05.13.20:954][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.37:035][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.52:288][820]Cmd: DELETE
+[2021.01.06-05.13.52:288][820]Cmd: ACTOR DELETE
+[2021.01.06-05.13.52:297][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.06-05.13.52:326][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.01.06-05.13.52:327][820]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.01.06-05.13.53:540][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.53:728][968]LogActorFactory: Actor Factory created Sphere
+[2021.01.06-05.13.54:150][  1]LogActorFactory: Actor Factory created Sphere
+[2021.01.06-05.13.55:625][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.13.59:888][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.14.05:240][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.14.25:455][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.01.06-05.14.44:740][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.14.44:862][532]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/TylerLava/lava_Inst.lava_Inst
+[2021.01.06-05.14.51:457][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset" SILENT=true
+[2021.01.06-05.14.51:491][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.06-05.14.51:495][116]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.06-05.14.51:922][116]TextureStreamingBuild: Display: Compiling optional shaders took 0.430 seconds.
+[2021.01.06-05.14.51:954][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.01.06-05.14.51:982][116]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava_Inst2699DB3B441851D37B99EBBFEADEFA14.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset'
+[2021.01.06-05.14.52:532][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.15.07:032][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.15.15:835][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.15.20:930][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava_Inst" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset" SILENT=true
+[2021.01.06-05.15.20:964][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.01.06-05.15.20:968][757]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.06-05.15.21:425][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.461 seconds.
+[2021.01.06-05.15.21:459][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.01.06-05.15.21:483][757]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lava_Inst476A54DF46ABE13A366853B9C6151D43.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava_Inst.uasset'
+[2021.01.06-05.15.21:885][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.15.53:501][788]Cmd: DELETE
+[2021.01.06-05.15.53:501][788]Cmd: ACTOR DELETE
+[2021.01.06-05.15.53:509][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.06-05.15.53:541][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.06-05.15.53:541][788]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.01.06-05.16.43:154][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.16.46:185][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.06-05.16.46:193][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.16.46:230][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.06-05.16.46:247][727]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Right_Island_Map, Actor: /Game/Maps/Right_Island_Map.Right_Island_Map:PersistentLevel.REINST_Right_Island_Map_C_0
+[2021.01.06-05.16.47:228][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Right_Island_Map068E7D5440463725E7DCEEA002C18ACE.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Right_Island_Map.umap'
+[2021.01.06-05.16.47:240][727]LogFileHelpers: Saving map 'Right_Island_Map' took 1.042
+[2021.01.06-05.16.47:243][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp_Map" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Swamp_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.06-05.16.47:278][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.01.06-05.16.47:291][727]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_3
+[2021.01.06-05.16.47:660][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map831E425B467969B75B22CCA02E4A7951.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Swamp_Map.umap'
+[2021.01.06-05.16.47:669][727]LogFileHelpers: Saving map 'Swamp_Map' took 0.426
+[2021.01.06-05.16.47:700][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/P_SmokeStack102E8B57644113E2A3E2B47BC9FD7945A.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/SmokeBuilder/Particles/P_SmokeStack1.uasset'
+[2021.01.06-05.16.47:741][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/P_SmokeStack23A62A9C746FE632880E763A631FA50E8.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/SmokeBuilder/Particles/P_SmokeStack2.uasset'
+[2021.01.06-05.16.47:746][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TylerLava/lava" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset" SILENT=true
+[2021.01.06-05.16.47:767][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/lavaE5DE76A4442435625FEE04B1BB5F5843.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/TylerLava/lava.uasset'
+[2021.01.06-05.16.47:785][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paths/DirtPath" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/DirtPath.uasset" SILENT=true
+[2021.01.06-05.16.47:815][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/DirtPath406DEF14424E8DC4C3AC22A49F4B512A.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/DirtPath.uasset'
+[2021.01.06-05.16.47:820][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paths/SplineMesh" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/SplineMesh.uasset" SILENT=true
+[2021.01.06-05.16.47:860][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/SplineMesh83FE1CD347D094A6891E638F9C636929.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Paths/SplineMesh.uasset'
+[2021.01.06-05.16.47:875][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FantasyVillage/Materials/MI_Dirt01" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/FantasyVillage/Materials/MI_Dirt01.uasset" SILENT=true
+[2021.01.06-05.16.47:908][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/MI_Dirt01850DF8134A02D19E252B969643FED07E.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/FantasyVillage/Materials/MI_Dirt01.uasset'
+[2021.01.06-05.16.47:922][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FantasyVillage/Materials/M_Puddle01" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/FantasyVillage/Materials/M_Puddle01.uasset" SILENT=true
+[2021.01.06-05.16.47:953][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_Puddle01192DCA4F4014F400CC4BD2B94611B28E.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/FantasyVillage/Materials/M_Puddle01.uasset'
+[2021.01.06-05.16.48:031][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_FieldGrass_Inst_01_LOD15BAC6614450A5A07A9D2209A40ACD05A.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD1.uasset'
+[2021.01.06-05.16.48:106][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_FieldGrass_01A0D0093843B4191E25E84389227DD62F.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.uasset'
+[2021.01.06-05.16.48:204][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_FieldScabious_01BA7033F64B985E7B13AFF9BE53F7B452.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/KiteDemo/Environments/Foliage/Flowers/FieldScabious/M_FieldScabious_01.uasset'
+[2021.01.06-05.16.48:231][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WaterMaterials/Materials/M_Sand" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/WaterMaterials/Materials/M_Sand.uasset" SILENT=true
+[2021.01.06-05.16.48:275][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_Sand78C5AAC94975D70F11C628BC33C20D57.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/WaterMaterials/Materials/M_Sand.uasset'
+[2021.01.06-05.16.48:332][727]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/M_Rock_SandstoneB9E3264D4D984683C6D9FD87946C7EF4.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2021.01.06-05.17.27:606][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.06-05.17.27:685][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.01.06-05.17.30:672][388]LogSlate: Window 'Save Content' being destroyed
+[2021.01.06-05.17.30:683][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.06-05.17.30:725][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.01.06-05.17.30:735][388]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Right_Island_Map, Actor: /Game/Maps/Right_Island_Map.Right_Island_Map:PersistentLevel.REINST_Right_Island_Map_C_0
+[2021.01.06-05.17.31:839][388]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Right_Island_MapB23646754B207F24C5D59EAA976BC751.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Right_Island_Map.umap'
+[2021.01.06-05.17.31:847][388]LogFileHelpers: Saving map 'Right_Island_Map' took 1.157
+[2021.01.06-05.17.31:852][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Swamp_Map" FILE="../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Swamp_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.06-05.17.31:890][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.01.06-05.17.31:898][388]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Swamp_Map, Actor: /Game/Maps/Swamp_Map.Swamp_Map:PersistentLevel.REINST_Swamp_Map_C_4
+[2021.01.06-05.17.32:287][388]LogSavePackage: Moving '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Saved/Swamp_Map581DB3024BFBB72549E95DB9F0A138F3.tmp' to '../../../../../../Users/Tyler/Documents/GitHub/VR_RPG/VR_RPG/Content/Maps/Swamp_Map.umap'
+[2021.01.06-05.17.32:292][388]LogFileHelpers: Saving map 'Swamp_Map' took 0.439
+[2021.01.06-05.17.32:486][388]LogSlate: Window 'lava_Inst' being destroyed
+[2021.01.06-05.17.32:526][388]LogSlate: Window 'VR_RPG - Unreal Editor' being destroyed
+[2021.01.06-05.17.32:956][389]Cmd: QUIT_EDITOR
+[2021.01.06-05.17.32:992][389]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.06-05.17.33:012][389]LogExit: Preparing to exit.
+[2021.01.06-05.17.34:257][389]LogExit: Editor shut down
+[2021.01.06-05.17.34:259][389]LogExit: Transaction tracking system shut down
+[2021.01.06-05.17.35:153][389]LogExit: Object subsystem successfully closed.
+[2021.01.06-05.17.35:221][389]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.06-05.17.35:230][389]LogD3D11RHI: Shutdown
+[2021.01.06-05.17.35:230][389]LogD3D11RHI: CleanupD3DDevice
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2021.01.06-05.17.35:234][389]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.01.06-05.17.35:618][389]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.01.06-05.17.35:755][389]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2021.01.06-05.17.35:755][389]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (644)
+[2021.01.06-05.17.35:755][389]LogModuleManager: Shutting down and abandoning module DistCurveEditor (642)
+[2021.01.06-05.17.35:755][389]LogModuleManager: Shutting down and abandoning module Cascade (640)
+[2021.01.06-05.17.35:755][389]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (638)
+[2021.01.06-05.17.35:756][389]LogModuleManager: Shutting down and abandoning module SceneOutliner (636)
+[2021.01.06-05.17.35:756][389]LogModuleManager: Shutting down and abandoning module AddContentDialog (634)
+[2021.01.06-05.17.35:761][389]LogModuleManager: Shutting down and abandoning module WidgetCarousel (633)
+[2021.01.06-05.17.35:761][389]LogModuleManager: Shutting down and abandoning module EditorWidgets (630)
+[2021.01.06-05.17.35:761][389]LogModuleManager: Shutting down and abandoning module CollectionManager (628)
+[2021.01.06-05.17.35:762][389]LogModuleManager: Shutting down and abandoning module WorldBrowser (626)
+[2021.01.06-05.17.35:762][389]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2021.01.06-05.17.35:762][389]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2021.01.06-05.17.35:763][389]LogModuleManager: Shutting down and abandoning module FoliageEdit (620)
+[2021.01.06-05.17.35:763][389]LogModuleManager: Shutting down and abandoning module LandscapeEditor (618)
+[2021.01.06-05.17.35:765][389]LogModuleManager: Shutting down and abandoning module MeshPaintMode (616)
+[2021.01.06-05.17.35:765][389]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (614)
+[2021.01.06-05.17.35:765][389]LogModuleManager: Shutting down and abandoning module ActorPickerMode (612)
+[2021.01.06-05.17.35:765][389]LogModuleManager: Shutting down and abandoning module GeometryMode (610)
+[2021.01.06-05.17.35:766][389]LogModuleManager: Shutting down and abandoning module TextureAlignMode (608)
+[2021.01.06-05.17.35:766][389]LogModuleManager: Shutting down and abandoning module BspMode (606)
+[2021.01.06-05.17.35:766][389]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (604)
+[2021.01.06-05.17.35:766][389]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (602)
+[2021.01.06-05.17.35:766][389]LogModuleManager: Shutting down and abandoning module AutomationWorker (600)
+[2021.01.06-05.17.35:767][389]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (598)
+[2021.01.06-05.17.35:767][389]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (596)
+[2021.01.06-05.17.35:768][389]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (594)
+[2021.01.06-05.17.35:772][389]LogModuleManager: Shutting down and abandoning module PlacementMode (593)
+[2021.01.06-05.17.35:772][389]LogModuleManager: Shutting down and abandoning module MaterialEditor (592)
+[2021.01.06-05.17.35:772][389]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (588)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (586)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (584)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (582)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (580)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module WebMMedia (578)
+[2021.01.06-05.17.35:773][389]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (576)
+[2021.01.06-05.17.35:774][389]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (574)
+[2021.01.06-05.17.35:776][389]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2021.01.06-05.17.35:776][389]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (570)
+[2021.01.06-05.17.35:776][389]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (568)
+[2021.01.06-05.17.35:776][389]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (566)
+[2021.01.06-05.17.35:776][389]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (564)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (562)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (560)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (558)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (556)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (554)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2021.01.06-05.17.35:777][389]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2021.01.06-05.17.35:778][389]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2021.01.06-05.17.35:778][389]LogModuleManager: Shutting down and abandoning module MeshPaint (542)
+[2021.01.06-05.17.35:778][389]LogModuleManager: Shutting down and abandoning module ViewportSnapping (540)
+[2021.01.06-05.17.35:778][389]LogModuleManager: Shutting down and abandoning module ViewportInteraction (538)
+[2021.01.06-05.17.35:778][389]LogModuleManager: Shutting down and abandoning module ClothPainter (536)
+[2021.01.06-05.17.35:779][389]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (535)
+[2021.01.06-05.17.35:781][389]LogModuleManager: Shutting down and abandoning module LogVisualizer (532)
+[2021.01.06-05.17.35:784][389]LogModuleManager: Shutting down and abandoning module IntroTutorials (530)
+[2021.01.06-05.17.35:784][389]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (529)
+[2021.01.06-05.17.35:785][389]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (526)
+[2021.01.06-05.17.35:785][389]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (524)
+[2021.01.06-05.17.35:786][389]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (522)
+[2021.01.06-05.17.35:786][389]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (520)
+[2021.01.06-05.17.35:786][389]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (519)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (516)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (514)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (512)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (510)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (508)
+[2021.01.06-05.17.35:950][389]LogModuleManager: Shutting down and abandoning module InputBindingEditor (506)
+[2021.01.06-05.17.35:951][389]LogModuleManager: Shutting down and abandoning module MergeActors (504)
+[2021.01.06-05.17.35:952][389]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (502)
+[2021.01.06-05.17.35:953][389]LogModuleManager: Shutting down and abandoning module LocalizationService (501)
+[2021.01.06-05.17.35:953][389]LogModuleManager: Shutting down and abandoning module HardwareTargeting (498)
+[2021.01.06-05.17.35:953][389]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (496)
+[2021.01.06-05.17.35:954][389]LogModuleManager: Shutting down and abandoning module UndoHistory (494)
+[2021.01.06-05.17.35:954][389]LogModuleManager: Shutting down and abandoning module XmlParser (492)
+[2021.01.06-05.17.35:954][389]LogModuleManager: Shutting down and abandoning module Blutility (490)
+[2021.01.06-05.17.35:954][389]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (488)
+[2021.01.06-05.17.35:955][389]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (487)
+[2021.01.06-05.17.35:955][389]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (484)
+[2021.01.06-05.17.35:956][389]LogModuleManager: Shutting down and abandoning module SettingsEditor (482)
+[2021.01.06-05.17.35:956][389]LogModuleManager: Shutting down and abandoning module ProjectLauncher (480)
+[2021.01.06-05.17.35:957][389]LogModuleManager: Shutting down and abandoning module SessionFrontend (478)
+[2021.01.06-05.17.35:958][389]LogModuleManager: Shutting down and abandoning module ProfilerClient (476)
+[2021.01.06-05.17.35:958][389]LogModuleManager: Shutting down and abandoning module DeviceManager (474)
+[2021.01.06-05.17.35:959][389]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (473)
+[2021.01.06-05.17.36:015][389]LogModuleManager: Shutting down and abandoning module AutomationController (470)
+[2021.01.06-05.17.36:016][389]LogModuleManager: Shutting down and abandoning module AutomationWindow (468)
+[2021.01.06-05.17.36:016][389]LogModuleManager: Shutting down and abandoning module Layers (466)
+[2021.01.06-05.17.36:018][389]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (464)
+[2021.01.06-05.17.36:018][389]LogModuleManager: Shutting down and abandoning module DetailCustomizations (462)
+[2021.01.06-05.17.36:018][389]LogModuleManager: Shutting down and abandoning module PackagesDialog (460)
+[2021.01.06-05.17.36:019][389]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (458)
+[2021.01.06-05.17.36:019][389]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2021.01.06-05.17.36:021][389]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2021.01.06-05.17.36:021][389]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2021.01.06-05.17.36:021][389]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2021.01.06-05.17.36:028][389]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2021.01.06-05.17.36:028][389]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2021.01.06-05.17.36:028][389]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2021.01.06-05.17.36:029][389]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2021.01.06-05.17.36:029][389]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2021.01.06-05.17.36:030][389]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2021.01.06-05.17.36:030][389]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2021.01.06-05.17.36:030][389]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2021.01.06-05.17.36:030][389]LogModuleManager: Shutting down and abandoning module LiveCoding (432)
+[2021.01.06-05.17.36:031][389]LogModuleManager: Shutting down and abandoning module LevelSequence (430)
+[2021.01.06-05.17.36:031][389]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2021.01.06-05.17.36:031][389]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2021.01.06-05.17.36:031][389]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2021.01.06-05.17.36:032][389]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2021.01.06-05.17.36:033][389]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2021.01.06-05.17.36:033][389]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2021.01.06-05.17.36:034][389]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2021.01.06-05.17.36:034][389]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2021.01.06-05.17.36:034][389]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2021.01.06-05.17.36:037][389]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2021.01.06-05.17.36:092][389]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2021.01.06-05.17.36:093][389]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2021.01.06-05.17.36:093][389]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2021.01.06-05.17.36:093][389]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2021.01.06-05.17.36:093][389]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2021.01.06-05.17.36:093][389]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2021.01.06-05.17.36:094][389]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2021.01.06-05.17.36:096][389]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2021.01.06-05.17.36:097][389]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2021.01.06-05.17.36:099][389]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2021.01.06-05.17.36:100][389]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2021.01.06-05.17.36:100][389]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2021.01.06-05.17.36:100][389]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2021.01.06-05.17.36:100][389]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2021.01.06-05.17.36:100][389]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2021.01.06-05.17.36:101][389]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2021.01.06-05.17.36:101][389]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2021.01.06-05.17.36:102][389]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2021.01.06-05.17.36:103][389]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2021.01.06-05.17.36:104][389]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2021.01.06-05.17.36:105][389]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2021.01.06-05.17.36:105][389]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2021.01.06-05.17.36:105][389]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2021.01.06-05.17.36:105][389]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2021.01.06-05.17.36:105][389]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2021.01.06-05.17.36:106][389]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2021.01.06-05.17.36:106][389]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2021.01.06-05.17.36:106][389]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2021.01.06-05.17.36:107][389]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2021.01.06-05.17.36:209][389]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2021.01.06-05.17.36:310][389]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2021.01.06-05.17.36:310][389]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2021.01.06-05.17.36:310][389]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2021.01.06-05.17.36:310][389]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2021.01.06-05.17.36:310][389]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2021.01.06-05.17.36:311][389]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.06-05.17.36:311][389]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2021.01.06-05.17.36:311][389]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2021.01.06-05.17.36:311][389]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2021.01.06-05.17.36:311][389]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2021.01.06-05.17.36:312][389]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2021.01.06-05.17.36:312][389]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2021.01.06-05.17.36:312][389]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2021.01.06-05.17.36:312][389]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2021.01.06-05.17.36:313][389]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2021.01.06-05.17.36:315][389]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2021.01.06-05.17.36:316][389]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2021.01.06-05.17.36:316][389]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2021.01.06-05.17.36:317][389]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2021.01.06-05.17.36:318][389]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2021.01.06-05.17.36:320][389]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2021.01.06-05.17.36:321][389]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2021.01.06-05.17.36:321][389]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2021.01.06-05.17.36:321][389]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2021.01.06-05.17.36:321][389]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2021.01.06-05.17.36:323][389]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2021.01.06-05.17.36:323][389]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2021.01.06-05.17.36:323][389]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2021.01.06-05.17.36:323][389]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2021.01.06-05.17.36:323][389]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2021.01.06-05.17.36:324][389]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2021.01.06-05.17.36:324][389]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2021.01.06-05.17.36:325][389]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2021.01.06-05.17.36:325][389]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2021.01.06-05.17.36:327][389]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2021.01.06-05.17.36:329][389]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2021.01.06-05.17.36:329][389]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2021.01.06-05.17.36:330][389]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2021.01.06-05.17.36:332][389]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2021.01.06-05.17.36:332][389]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2021.01.06-05.17.36:334][389]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2021.01.06-05.17.36:334][389]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2021.01.06-05.17.36:336][389]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2021.01.06-05.17.36:336][389]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2021.01.06-05.17.36:336][389]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module Core (172)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2021.01.06-05.17.36:337][389]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2021.01.06-05.17.36:338][389]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2021.01.06-05.17.36:339][389]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2021.01.06-05.17.36:340][389]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2021.01.06-05.17.36:340][389]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2021.01.06-05.17.36:428][389]LogDerivedDataCache: Shutdown
+[2021.01.06-05.17.36:428][389]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2021.01.06-05.17.36:428][389]LogXGEController: Cleaning working directory: C:/Users/Tyler/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.06-05.17.36:428][389]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2021.01.06-05.17.36:429][389]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2021.01.06-05.17.36:429][389]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2021.01.06-05.17.36:429][389]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2021.01.06-05.17.36:429][389]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2021.01.06-05.17.36:430][389]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2021.01.06-05.17.36:430][389]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2021.01.06-05.17.36:430][389]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2021.01.06-05.17.36:430][389]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2021.01.06-05.17.36:430][389]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2021.01.06-05.17.36:431][389]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2021.01.06-05.17.36:431][389]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2021.01.06-05.17.36:431][389]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2021.01.06-05.17.36:431][389]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2021.01.06-05.17.36:432][389]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2021.01.06-05.17.36:432][389]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2021.01.06-05.17.36:432][389]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2021.01.06-05.17.36:443][389]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2021.01.06-05.17.36:443][389]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2021.01.06-05.17.36:443][389]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2021.01.06-05.17.36:444][389]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2021.01.06-05.17.36:444][389]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2021.01.06-05.17.36:450][389]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2021.01.06-05.17.36:450][389]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2021.01.06-05.17.36:456][389]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2021.01.06-05.17.36:456][389]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2021.01.06-05.17.36:499][389]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2021.01.06-05.17.36:500][389]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2021.01.06-05.17.36:500][389]LogModuleManager: Shutting down and abandoning module SteamVR (70)
+[2021.01.06-05.17.36:501][389]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.06-05.17.36:501][389]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2021.01.06-05.17.36:501][389]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2021.01.06-05.17.36:501][389]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2021.01.06-05.17.36:501][389]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2021.01.06-05.17.36:503][389]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2021.01.06-05.17.36:504][389]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2021.01.06-05.17.36:533][389]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2021.01.06-05.17.36:533][389]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.06-05.17.36:533][389]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C898A2D-4F03-586A-6E52-BDA1E9A81536%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=f614c7e1460c208d68383692a30a09dd%7C7de64eadbe1d4040a28bb83be885e741%7Ca9357c2c-527a-4adc-ab25-85117ba95302&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.01.06-05.17.36:562][389]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2021.01.06-05.17.36:570][389]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2021.01.06-05.17.36:573][389]LogModuleManager: Shutting down and abandoning module Media (45)
+[2021.01.06-05.17.36:579][389]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2021.01.06-05.17.36:579][389]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2021.01.06-05.17.36:580][389]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.06-05.17.36:580][389]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.06-05.17.36:582][389]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.06-05.17.36:586][389]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.06-05.17.36:586][389]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.06-05.17.36:586][389]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.06-05.17.36:586][389]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.06-05.17.36:588][389]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.06-05.17.36:589][389]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.06-05.17.36:590][389]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.06-05.17.36:590][389]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.06-05.17.36:600][389]LogExit: Exiting.
+[2021.01.06-05.17.36:654][389]Log file closed, 01/06/21 00:17:36
